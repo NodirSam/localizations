@@ -1,0 +1,1600 @@
+{
+  "elements": [
+    {
+      "number": 1,
+      "name": "Vodorod",
+      "symbol": "H",
+      "extract": "Vodorod - H belgisi va atom raqami 1 bo'lgan kimyoviy element. Standart atom og'irligi 1,008 bo'lgan vodorod davriy jadvaldagi eng engil element hisoblanadi. Uning monotomik shakli (H) koinotdagi eng keng tarqalgan kimyoviy modda bo'lib, barcha barion massasining taxminan 75% ni tashkil qiladi. Qoldiq bo'lmagan yulduzlar, asosan, plazma holatida vodoroddan iborat. Vodorodning eng keng tarqalgan izotopi protiy deb ataladi (nomi kamdan-kam ishlatiladi, belgisi 1H) bitta protonga ega va neytronlari yo'q.",
+      "source": "https://en.wikipedia.org/wiki/Hydrogen",
+      "category": "Reaktiv nometall",
+      "atomic_weight": "1.008 u(±)",
+      "colors": [
+        4283657726,
+        4287535603
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Litiy",
+      "symbol": "Li",
+      "extract": "Litiy (yunoncha: lithos, translit. lithos, lit. tosh) belgisi Li va atom raqami 3 boʻlgan kimyoviy element. Bu yumshoq, kumushsimon oq ishqoriy metall. Standart sharoitlarda u eng engil metall va eng engil qattiq element hisoblanadi.",
+      "source": "https://en.wikipedia.org/wiki/Lithium",
+      "category": "Ishqoriy metall",
+      "atomic_weight": "6.94 u(±)",
+      "colors": [
+        4292030255,
+        4294932393
+      ]
+    },
+    {
+      "number": 11,
+      "name": "Natriy",
+      "symbol": "Na",
+      "extract": "Natriy - kimyoviy element, belgisi Na (lotin natriyidan) va atom raqami 11. Bu yumshoq, kumush-oq, yuqori reaktiv metalldir. Natriy ishqoriy metal bo'lib, davriy jadvalning 1-guruhiga kiradi, chunki uning tashqi qobig'ida bitta elektron mavjud bo'lib, u osonlikcha berib, musbat zaryadlangan ion - Na+ kationini hosil qiladi. Uning yagona barqaror izotopi 23Na dir. Erkin metall tabiatda uchramaydi va aralashmalardan tayyorlanishi kerak.",
+      "source": "https://en.wikipedia.org/wiki/Sodium",
+      "category": "Ishqoriy metall",
+      "atomic_weight": "22.98976928(2) u(±)",
+      "colors": [
+        4292030255,
+        4294932393
+      ]
+    },
+    {
+      "number": 19,
+      "name": "Kaliy",
+      "symbol": "K",
+      "extract": "Kaliy K (neo-lotin kaliysidan) belgisi va atom raqami 19 bo'lgan kimyoviy elementdir. U birinchi bo'lib o'z nomini olgan o'simliklarning kulidan kaliydan ajratilgan. Davriy jadvalda kaliy gidroksidi metallardan biridir. Barcha gidroksidi metallar tashqi elektron qobig'ida bitta valent elektronga ega bo'lib, u musbat zaryadli ion - kation hosil qilish uchun osongina chiqariladi, u anionlar bilan tuzlarni hosil qiladi. Tabiatda kaliy faqat ionli tuzlarda uchraydi.",
+      "source": "https://en.wikipedia.org/wiki/Potassium",
+      "category": "Ishqoriy metall",
+      "atomic_weight": "39.0983(1) u(±)",
+      "colors": [
+        4292030255,
+        4294932393
+      ]
+    },
+    {
+      "number": 37,
+      "name": "Rubidiy",
+      "symbol": "Rb",
+      "extract": "Rubidiy - Rb belgisi va atom raqami 37 bo'lgan kimyoviy element. Rubidiy ishqoriy metallar guruhining yumshoq, kumush-oq metall elementi bo'lib, standart atom og'irligi 85,4678. Elemental rubidiy yuqori reaktivdir, xossalari boshqa gidroksidi metallarnikiga o'xshash, shu jumladan havoda tez oksidlanish. Yerda tabiiy rubidiy ikkita izotopdan iborat: 72% barqaror izotop, 85Rb; 28% biroz radioaktiv 87Rb bo'lib, yarim yemirilish davri 49 milliard yilni tashkil etadi, bu koinotning taxminiy yoshidan uch baravar ko'proq.\nNemis kimyogarlari Robert Bunsen va Gustav Kirxxof 1861 yilda yangi ishlab chiqilgan texnika - olov spektroskopiyasi yordamida rubidiyni kashf etdilar.",
+      "source": "https://en.wikipedia.org/wiki/Rubidium",
+      "category": "Ishqoriy metall",
+      "atomic_weight": "85.4678(3) u(±)",
+      "colors": [
+        4292030255,
+        4294932393
+      ]
+    },
+    {
+      "number": 55,
+      "name": "Seziy",
+      "symbol": "Cs",
+      "extract": "Seziy (IUPAC imlosi) yoki seziy (Amerika imlosi) Cs belgisi va atom raqami 55 bo'lgan kimyoviy elementdir. Bu erish nuqtasi 28,5 °C (83,3 °F) bo'lgan yumshoq, kumush-oltin ishqoriy metalldir. xona haroratida yoki unga yaqin suyuqlik bo'lgan beshta elementar metallardan biri. Sezyum rubidiy va kaliyga o'xshash fizik va kimyoviy xususiyatlarga ega. Barcha metallarning eng reaktivi piroforikdir va hatto -116 °C (-177 °F) da suv bilan reaksiyaga kirishadi. Bu eng kam elektromanfiy element bo'lib, Pauling shkalasi bo'yicha 0,79 qiymatiga ega.",
+      "source": "https://en.wikipedia.org/wiki/Caesium",
+      "category": "Ishqoriy metall",
+      "atomic_weight": "132.90545196(6) u(±)",
+      "colors": [
+        4292030255,
+        4294932393
+      ]
+    },
+    {
+      "number": 87,
+      "name": "Frantsiy",
+      "symbol": "Fr",
+      "extract": "Frantsiy - Fr belgisi va atom raqami 87 bo'lgan kimyoviy element. Ilgari u eka-tseziy nomi bilan tanilgan. Bu juda radioaktiv; uning eng barqaror izotopi fransiy-223 (dastlab u paydo bo'lgan tabiiy parchalanish zanjiridan keyin aktiniy K deb ataladi) yarim yemirilish davri atigi 22 daqiqani tashkil qiladi. Bu faqat seziydan keyin ikkinchi elektromusbat element bo'lib, ikkinchi eng kam uchraydigan tabiiy element (astatindan keyin). Frantsiyning izotoplari tezda astatin, radiy va radonga parchalanadi.",
+      "source": "https://en.wikipedia.org/wiki/Francium",
+      "category": "Ishqoriy metall",
+      "atomic_weight": "[223] (mass number)",
+      "colors": [
+        4292030255,
+        4294932393
+      ]
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "number": 4,
+      "name": "Berilliy",
+      "symbol": "Be",
+      "extract": "Berilliy — Be belgisi va atom raqami 4 boʻlgan kimyoviy element. U koinotdagi nisbatan kam uchraydigan element boʻlib, odatda kosmik nurlar bilan toʻqnashgan yirik atom yadrolarining choʻzilishi natijasida yuzaga keladi. Yulduzlarning yadrolarida berilliy tugaydi, chunki u birlashadi va kattaroq elementlarni hosil qiladi. Bu ikki valentli element bo'lib, tabiiy ravishda faqat minerallardagi boshqa elementlar bilan birgalikda uchraydi. Beriliyni o'z ichiga olgan taniqli qimmatbaho toshlarga beril (akuamarin, zumrad) va xrizoberil kiradi..",
+      "source": "https://en.wikipedia.org/wiki/Beryllium",
+      "category": "Ishqoriy tuproq metall",
+      "atomic_weight": "9.0121831(5) u(±)",
+      "colors": [
+        4294208325,
+        4293830729
+      ]
+    },
+    {
+      "number": 12,
+      "name": "Magniy",
+      "symbol": "Mg",
+      "extract": "Magniy - Mg belgisi va atom raqami 12 bo'lgan kimyoviy element. Bu davriy jadvalning ikkinchi ustunidagi (2-guruh yoki ishqoriy tuproq metallari) boshqa beshta elementga yaqin jismoniy o'xshash yaltiroq kulrang qattiq modda: barcha guruh 2 ta element tashqi elektron qobig'ida bir xil elektron konfiguratsiyaga va o'xshash kristall tuzilishga ega.\nMagniy koinotdagi eng keng tarqalgan to'qqizinchi elementdir. U katta, qarigan yulduzlarda uchta geliy yadrosining uglerod yadrosiga ketma-ket qo'shilishi natijasida hosil bo'ladi. Bunday yulduzlar o'ta yangi yulduzlar sifatida portlaganda, magniyning katta qismi yulduzlararo muhitga tashlanadi va u yangi yulduz tizimlariga aylanishi mumkin.",
+      "source": "https://en.wikipedia.org/wiki/Magnesium",
+      "category": "Ishqoriy tuproq metall",
+      "atomic_weight": "24.305 u(±)",
+      "colors": [
+        4294208325,
+        4293830729
+      ]
+    },
+    {
+      "number": 20,
+      "name": "Kaltsiy",
+      "symbol": "Ca",
+      "extract": "Kaltsiy - Ca belgisi va atom raqami 20 bo'lgan kimyoviy element. Ishqoriy tuproq metali sifatida kaltsiy reaktiv metall bo'lib, havo ta'sirida quyuq oksid-nitrid qatlamini hosil qiladi. Uning fizik va kimyoviy xossalari eng og'irroq gomologlar stronsiy va bariyga o'xshaydi. Bu Yer qobig'idagi beshinchi element va temir va alyuminiydan keyin uchinchi eng ko'p metalldir. Erdagi eng keng tarqalgan kaltsiy birikmasi kaltsiy karbonat bo'lib, ohaktosh va erta dengiz hayotining toshga aylangan qoldiqlarida topilgan; gips, anhidrit, ftorit va apatit ham kaltsiy manbalari hisoblanadi.",
+      "source": "https://en.wikipedia.org/wiki/Calcium",
+      "category": "Ishqoriy tuproq metall",
+      "atomic_weight": "40.078(4) u(±)",
+      "colors": [
+        4294208325,
+        4293830729
+      ]
+    },
+    {
+      "number": 38,
+      "name": "Stronsiy",
+      "symbol": "Sr",
+      "extract": "Stronsiy - Sr belgisi va atom raqami 38 bo'lgan kimyoviy element. Ishqoriy tuproq metali, stronsiy yumshoq kumush-oq rangdagi sarg'ish rangli metall element bo'lib, kimyoviy reaktivligi yuqori. Metall havo ta'sirida quyuq oksidli qatlam hosil qiladi. Stronsiy davriy jadvaldagi ikkita vertikal qo'shnisi - kaltsiy va bariyga o'xshash fizik va kimyoviy xususiyatlarga ega. Tabiatda asosan selestin va strontianit minerallarida uchraydi va asosan shulardan qazib olinadi.",
+      "source": "https://en.wikipedia.org/wiki/Strontium",
+      "category": "Ishqoriy tuproq metall",
+      "atomic_weight": "87.62(1) u(±)",
+      "colors": [
+        4294208325,
+        4293830729
+      ]
+    },
+    {
+      "number": 56,
+      "name": "Bariy",
+      "symbol": "Ba",
+      "extract": "Bariy kimyoviy element boʻlib, belgisi Ba va atom raqami 56. U 2-guruhdagi beshinchi element boʻlib, yumshoq, kumushsimon ishqoriy tuproq metalidir. Yuqori kimyoviy reaktivligi tufayli bariy tabiatda hech qachon erkin element sifatida topilmaydi. Uning gidroksidi, ya'ni hozirgi zamonda barita nomi bilan ma'lum bo'lgan, mineral sifatida paydo bo'lmaydi, lekin bariy karbonatini isitish orqali tayyorlanishi mumkin.\nBariyning eng keng tarqalgan tabiiy minerallari barit (hozirda barit deb ataladi) (bariy sulfat, BaSO4) va biterit (bariy karbonat, BaCO3), ikkalasi ham suvda erimaydi.",
+      "source": "https://en.wikipedia.org/wiki/Barium",
+      "category": "Ishqoriy tuproq metall",
+      "atomic_weight": "137.327(7) u(±)",
+      "colors": [
+        4294208325,
+        4293830729
+      ]
+    },
+    {
+      "number": 88,
+      "name": "Radiy",
+      "symbol": "Ra",
+      "extract": "Radiy kimyoviy element bo'lib, Ra belgisi va atom raqami 88. U davriy sistemaning 2-guruhidagi oltinchi element bo'lib, shuningdek, ishqoriy yer metallari deb ham ataladi. Sof radiy kumush-oq rangga ega, ammo u havo ta'sirida azot (kislorod emas) bilan oson reaksiyaga kirishib, radiy nitridining qora sirt qatlamini (Ra3N2) hosil qiladi. Radiyning barcha izotoplari yuqori radioaktiv bo'lib, eng barqaror izotop radiy-226 bo'lib, uning yarimparchalanish davri 1600 yil bo'lib, radon gaziga (xususan, radon-222 izotopi) parchalanadi. Radiy parchalanganda, ionlashtiruvchi nurlanish lyuminestsent kimyoviy moddalarni qo'zg'atishi va radioluminesansga olib kelishi mumkin bo'lgan mahsulotdir.",
+      "source": "https://en.wikipedia.org/wiki/Radium",
+      "category": "Ishqoriy tuproq metall",
+      "atomic_weight": "[226] (mass number)",
+      "colors": [
+        4294208325,
+        4293830729
+      ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "number": 21,
+      "name": "Skandiy",
+      "symbol": "Sc",
+      "extract": "Skandiy - Sc belgisi va atom raqami 21 bo'lgan kimyoviy element. Kumush-oq metall d-blok elementi, u tarixan itriy va lantanidlar bilan birga noyob yer elementi sifatida tasniflangan. U 1879 yilda Skandinaviyadagi evksenit va gadolinit minerallarini spektral tahlil qilish natijasida topilgan.\nSkandiy noyob yer va uran birikmalarining ko'p konlarida mavjud, ammo u butun dunyo bo'ylab bir nechta konlarda ushbu rudalardan olinadi. Birinchi marta 1937 yilda qilingan metall skandiyning kam mavjudligi va uni tayyorlashdagi qiyinchiliklar tufayli skandiy uchun ilovalar 1970-yillargacha ishlab chiqilmagan.",
+      "source": "https://en.wikipedia.org/wiki/Scandium",
+      "category": "O'tish metall",
+      "atomic_weight": "44.955908(5) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 39,
+      "name": "Itriy",
+      "symbol": "Y",
+      "extract": "Yttriy - Y belgisi va atom raqami 39 bo'lgan kimyoviy element. U kimyoviy jihatdan lantanidlarga o'xshash kumush-metall o'tish metallidir va ko'pincha \"noyob yer elementi\" sifatida tasniflanadi. İtriy deyarli har doim noyob yer minerallarida lantanid elementlari bilan birgalikda topiladi va tabiatda hech qachon erkin element sifatida topilmaydi. 89Y - yagona barqaror izotop va Yer qobig'ida topilgan yagona izotop.\n1787 yilda Karl Axel Arrhenius Shvetsiyadagi Ytterbi yaqinida yangi mineral topdi va uni qishloq sharafiga ytterbit deb nomladi.",
+      "source": "https://en.wikipedia.org/wiki/Yttrium",
+      "category": "O'tish metall",
+      "atomic_weight": "88.90584(1) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    null,
+    null,
+    null,
+    {
+      "number": 57,
+      "name": "Lantan",
+      "symbol": "La",
+      "extract": "Lantan - kimyoviy element bo'lib, La belgisi va atom raqami 57. Bu yumshoq, egiluvchan, kumushsimon-oq metall bo'lib, havo ta'sirida tezda xiralashadi va pichoq bilan kesish uchun etarlicha yumshoq. Bu lantanidlar seriyasining eponimi bo'lib, davriy sistemadagi lantan va lutetiy o'rtasidagi 15 ta o'xshash elementlar guruhi bo'lib, lantan birinchi va prototipidir. U, shuningdek, ba'zan 6-davr o'tish metallarining birinchi elementi hisoblanadi, bu esa uni 3-guruhga qo'yadi, garchi ba'zan bu holatda lutetiy o'rniga joylashtirilgan. Lantan an'anaviy ravishda noyob yer elementlari qatoriga kiradi.",
+      "source": "https://en.wikipedia.org/wiki/Lanthanum",
+      "category": "Lantanid",
+      "atomic_weight": "138.90547(7) u(±)",
+      "colors": [
+        4287349578,
+        4292141399
+      ]
+    },
+    {
+      "number": 89,
+      "name": "Aktiniy",
+      "symbol": "Ac",
+      "extract": "Aktiniy - kimyoviy element bo'lib, Ac belgisi va atom raqami 89. U birinchi marta 1899 yilda frantsuz kimyogari Andre-Lui Debir tomonidan ajratilgan. Keyinchalik Fridrix Oskar Gizel 1902 yilda uni mustaqil ravishda ajratib olgan va allaqachon ma'lum bo'lganidan bexabar, unga emanium nomini bergan. . Aktiniy davriy sistemada aktiniy va lavrensiy o'rtasidagi 15 ta o'xshash elementlardan iborat aktinidlar qatoriga nom berdi. U, shuningdek, ba'zan 7-davr o'tish metallarining birinchisi deb hisoblanadi, garchi bu pozitsiya kamroq tarqalgan bo'lsa-da, lawrencium.",
+      "source": "https://en.wikipedia.org/wiki/Actinium",
+      "category": "Aktinid",
+      "atomic_weight": "[227] (mass number)",
+      "colors": [
+        4279161591,
+        4289920762
+      ]
+    },
+    null,
+    null,
+    null,
+    {
+      "number": 22,
+      "name": "Titan",
+      "symbol": "Ti",
+      "extract": "Titan - Ti belgisi va atom raqami 22 bo'lgan kimyoviy element. Bu kumush rangli, past zichlikli va yuqori quvvatga ega bo'lgan yorqin o'tish metallidir. Titan dengiz suvi, akva regia va xlordagi korroziyaga chidamli.\nTitan 1791 yilda Buyuk Britaniyaning Kornuoll shahrida Uilyam Gregor tomonidan kashf etilgan va uni yunon mifologiyasi titanlari sharafiga Martin Geynrix Klaprot deb atagan. Element yer qobig'i va litosferada keng tarqalgan bir qator foydali qazilmalar konlarida, asosan rutil va ilmenitda uchraydi va u deyarli barcha tirik mavjudotlarda, suv havzalarida, toshlarda va tuproqlarda uchraydi.",
+      "source": "https://en.wikipedia.org/wiki/Titanium",
+      "category": "O'tish metall",
+      "atomic_weight": "47.867(1) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 40,
+      "name": "Zirkonyum",
+      "symbol": "Zr",
+      "extract": "Zirkoniy - Zr belgisi va atom raqami 40 bo'lgan kimyoviy element. Tsirkoniy nomi sirkon mineralining nomidan olingan (bu so'z forscha zargun (tsirkon; zar-gun, \"oltin kabi\" yoki \"oltin kabi\") bilan bog'liq. )), zirkonyumning eng muhim manbai. Bu porloq, kulrang-oq, kuchli o'tish metall bo'lib, gafniyga va kamroq darajada titanga o'xshaydi. Zirkonyum asosan o'tga chidamli va shaffoflashtiruvchi sifatida ishlatiladi, garchi oz miqdorda korroziyaga kuchli qarshilik uchun qotishma agenti sifatida ishlatiladi. Zirkonyum navbati bilan sirkoniy dioksid va zirkonotsen diklorid kabi turli noorganik va organometalik birikmalarni hosil qiladi.",
+      "source": "https://en.wikipedia.org/wiki/Zirconium",
+      "category": "O'tish metall",
+      "atomic_weight": "91.224(2) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 72,
+      "name": "Gafniy",
+      "symbol": "Hf",
+      "extract": "Gafniy - Hf belgisi va atom raqami 72 bo'lgan kimyoviy element. Yaltiroq, kumushrang kulrang, tetravalent o'tish metalli, gafniy kimyoviy jihatdan sirkoniyga o'xshaydi va ko'plab sirkoniy minerallarida mavjud. Uning mavjudligi 1869 yilda Dmitriy Mendeleev tomonidan bashorat qilingan, garchi u 1923 yilgacha Koster va Xevsi tomonidan aniqlangan bo'lsa-da, bu kashf etilgan oxirgi barqaror elementga aylandi. Gafniy topilgan Kopengagenning lotincha nomi Hafniya sharafiga nomlangan. Gafniy filamentlar va elektrodlarda ishlatiladi. Ba'zi yarimo'tkazgichlarni ishlab chiqarish jarayonlarida uning oksidi 45 nm va undan kichikroq uzunlikdagi integral mikrosxemalar uchun ishlatiladi.",
+      "source": "https://en.wikipedia.org/wiki/Hafnium",
+      "category": "O'tish metall",
+      "atomic_weight": "178.49(2) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 104,
+      "name": "Ruterfordiy",
+      "symbol": "Rf",
+      "extract": "Ruterfordiy - Rf belgisi va atom raqami 104 bo'lgan sintetik kimyoviy element bo'lib, fizik Ernest Ruterford nomi bilan atalgan. Sintetik element sifatida u tabiatda topilmaydi va faqat laboratoriyada yaratilishi mumkin. Bu radioaktiv; ma'lum bo'lgan eng barqaror izotop, 267Rf, taxminan 1,3 soat yarim yemirilish davriga ega.\nElementlarning davriy jadvalida u d-blok elementi va to'rtinchi qator o'tish elementlarining ikkinchisidir. U 7-davrning a'zosi bo'lib, 4-guruh elementlariga kiradi.",
+      "source": "https://en.wikipedia.org/wiki/Rutherfordium",
+      "category": "O'tish metall",
+      "atomic_weight": "[267] (mass number)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    null,
+    {
+      "number": 58,
+      "name": "Seriy",
+      "symbol": "Ce",
+      "extract": "Seriy - Ce belgisi va atom raqami 58 bo'lgan kimyoviy element. Seriy yumshoq, egiluvchan va kumushsimon oq metall bo'lib, havo ta'sirida xiralashadi va pichoq bilan kesish uchun etarlicha yumshoq. Seriy lantanidlar seriyasining ikkinchi elementidir va u ko'pincha seriyaning +3 oksidlanish holatini ko'rsatsa ham, u suvni oksidlantirmaydigan barqaror +4 holatga ham ega. Shuningdek, u noyob yer elementlaridan biri hisoblanadi. Serium biologik rolga ega emas va juda zaharli emas.",
+      "source": "https://en.wikipedia.org/wiki/Cerium",
+      "category": "Lantanid",
+      "atomic_weight": "140.116(1) u(±)",
+      "colors": [
+        4287349578,
+        4292141399
+      ]
+    },
+    {
+      "number": 90,
+      "name": "Toriy",
+      "symbol": "Th",
+      "extract": "Toriy zaif radioaktiv metall kimyoviy element boʻlib, belgisi Th va atom raqami 90. Toriy kumushsimon boʻlib, havo taʼsirida qora rangga boʻyab, toriy dioksidi hosil qiladi; u o'rtacha qattiq, egiluvchan va yuqori erish nuqtasiga ega. Toriy - elektromusbat aktinid, uning kimyosida +4 oksidlanish darajasi ustunlik qiladi; u juda reaktiv va mayda bo'linganida havoda yonishi mumkin.\nBarcha ma'lum bo'lgan toriy izotoplari beqaror. Eng barqaror izotop 232Th ning yarim yemirilish davri 14,05 milliard yil yoki taxminan koinot yoshiga teng; u alfa-parchalanish orqali juda sekin parchalanadi va barqaror 208Pb bilan tugaydigan toriy seriyasi deb nomlangan parchalanish zanjirini boshlaydi.",
+      "source": "https://en.wikipedia.org/wiki/Thorium",
+      "category": "Aktinid",
+      "atomic_weight": "232.0377(4) u(±)",
+      "colors": [
+        4279161591,
+        4289920762
+      ]
+    },
+    null,
+    null,
+    null,
+    {
+      "number": 23,
+      "name": "Vanadiy",
+      "symbol": "V",
+      "extract": "Vanadiy - V belgisiga ega bo'lgan kimyoviy element va atom raqami 23. Bu qattiq, kumushrang-kulrang, egiluvchan, egiluvchan o'tish metallidir. Tabiatda elementar metall kamdan-kam uchraydi, lekin sun'iy ravishda ajratilgandan so'ng, oksidli qatlam hosil bo'lishi (passivatsiya) erkin metallni keyingi oksidlanishga qarshi biroz barqarorlashtiradi.\nAndrés Manuel del Rio 1801 yilda Meksikada \"jigarrang qo'rg'oshin\" deb atagan yangi qo'rg'oshinli mineralni tahlil qilish orqali vanadiy birikmalarini topdi va uning sifati yangi element mavjudligi bilan bog'liq deb taxmin qildi va uni eritronium (yunonchadan olingan) deb atadi. \"qizil\") chunki qizdirilganda tuzlarning aksariyati qizil rangga aylandi. To'rt yil o'tgach, u (xato) boshqa olimlar tomonidan eritronium xrom bilan bir xil ekanligiga ishonch hosil qildi.",
+      "source": "https://en.wikipedia.org/wiki/Vanadium",
+      "category": "O'tish metall",
+      "atomic_weight": "50.9415(1) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 41,
+      "name": "Niobiy",
+      "symbol": "Nb",
+      "extract": "Ilgari kolumbiy sifatida tanilgan niobiy, Nb (ilgari Cb) belgisi va atom raqami 41 bo'lgan kimyoviy elementdir. Bu yumshoq, kulrang, kristalli, egiluvchan o'tish metalli bo'lib, ko'pincha piroxlor va kolumbit minerallarida uchraydi, shuning uchun sobiq nomi \" kolumbiy\". Uning nomi yunon mifologiyasidan, xususan, tantalning ismi Tantalning qizi bo'lgan Niobedan olingan. Bu nom ikki elementning fizik va kimyoviy xossalari boʻyicha katta oʻxshashligini aks ettiradi, bu ularni farqlashni qiyinlashtiradi.Ingliz kimyogari Charlz Xetchett 1801 yilda tantalga oʻxshash yangi element haqida xabar berib, uni kolumbiy deb atagan. 1809 yilda ingliz kimyogari Uilyam Xayd Vollaston tantal va kolumbiy bir xil degan noto'g'ri xulosaga keldi.",
+      "source": "https://en.wikipedia.org/wiki/Niobium",
+      "category": "O'tish metall",
+      "atomic_weight": "92.90637(1) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 73,
+      "name": "Tantal",
+      "symbol": "Ta",
+      "extract": "Tantal - kimyoviy element bo'lib, Ta belgisi va atom raqami 73. Ilgari tantal sifatida tanilgan, uning nomi yunon mifologiyasidagi yovuz odam Tantaldan olingan. Tantal nodir, qattiq, ko'k-kulrang, yorqin o'tish metalli bo'lib, korroziyaga juda chidamli. Bu qotishmalarda kichik komponentlar sifatida keng qo'llaniladigan o'tga chidamli metallar guruhining bir qismidir. Tantalning kimyoviy inertligi uni laboratoriya jihozlari uchun qimmatli moddaga va platina o'rnini bosuvchi moddaga aylantiradi.",
+      "source": "https://en.wikipedia.org/wiki/Tantalum",
+      "category": "O'tish metall",
+      "atomic_weight": "180.94788(2) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 105,
+      "name": "Dubnium",
+      "symbol": "Db",
+      "extract": "Dubniy - Db belgisi va atom raqami 105 bo'lgan sintetik kimyoviy element. Dubnium yuqori radioaktivdir: eng barqaror ma'lum bo'lgan izotop dubniy-268, yarimparchalanish davri taxminan 28 soatni tashkil qiladi. Bu dubnium bo'yicha tadqiqotlar hajmini sezilarli darajada cheklaydi.\nDubnium Yerda tabiiy ravishda paydo bo'lmaydi va sun'iy ravishda ishlab chiqariladi. Sovet Yadroviy Tadqiqotlar Qo'shma Instituti (JINR) elementning birinchi kashfiyoti 1968 yilda, keyin esa 1970 yilda Amerika Lourens Berkli laboratoriyasi tomonidan kashf etilgan.",
+      "source": "https://en.wikipedia.org/wiki/Dubnium",
+      "category": "O'tish metall",
+      "atomic_weight": "[268] (mass number)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    null,
+    {
+      "number": 59,
+      "name": "Prazeodimiy",
+      "symbol": "Pr",
+      "extract": "Prazeodimiy - Pr belgisi va atom raqami 59 bo'lgan kimyoviy element. U lantanidlar seriyasining uchinchi a'zosi bo'lib, an'anaviy ravishda nodir yer metallaridan biri hisoblanadi. Praseodimiyum yumshoq, kumushsimon, egiluvchan va egiluvchan metall bo'lib, magnit, elektr, kimyoviy va optik xususiyatlari bilan baholanadi. U tabiiy shaklda topish uchun juda reaktiv va sof praseodimiyum metall havoga ta'sir qilganda asta-sekin yashil oksidli qoplamani rivojlantiradi.\nPraseodimium har doim boshqa noyob er metallari bilan birga tabiiy ravishda paydo bo'ladi.",
+      "source": "https://en.wikipedia.org/wiki/Praseodymium",
+      "category": "Lantanid",
+      "atomic_weight": "140.90766(1) u(±)",
+      "colors": [
+        4287349578,
+        4292141399
+      ]
+    },
+    {
+      "number": 91,
+      "name": "Protaktin",
+      "symbol": "Pa",
+      "extract": "Protaktiniy (ilgari protoaktiniy) Pa belgisi va atom raqami 91 bo'lgan kimyoviy elementdir. Bu kislorod, suv bug'lari va noorganik kislotalar bilan oson reaksiyaga kirishadigan zich, kumushrang-kulrang aktinidli metalldir. U turli xil kimyoviy birikmalar hosil qiladi, ularda protaktiniy odatda +5 oksidlanish holatida bo'ladi, lekin u +4 va hatto +3 yoki +2 holatlarini ham qabul qilishi mumkin. Er qobig'idagi protaktiniy kontsentratsiyasi odatda trillion uchun bir necha qismni tashkil qiladi, lekin ba'zi uranit ruda konlarida millionga bir necha qismga yetishi mumkin. Uning tanqisligi, yuqori radioaktivligi va yuqori toksikligi tufayli protaktiniyning ilmiy tadqiqotlardan tashqarida qo'llanilishi hozircha yo'q va bu maqsadda protaktiniy asosan ishlatilgan yadro yoqilg'isidan olinadi.",
+      "source": "https://en.wikipedia.org/wiki/Protactinium",
+      "category": "Aktinid",
+      "atomic_weight": "231.03588(1) u(±)",
+      "colors": [
+        4279161591,
+        4289920762
+      ]
+    },
+    null,
+    null,
+    null,
+    {
+      "number": 24,
+      "name": "Chromium",
+      "symbol": "Cr",
+      "extract": "Xrom - Cr belgisi va atom raqami 24 bo'lgan kimyoviy element. 6-guruhning birinchi elementi. Bu po'lat-kulrang, yorqin, qattiq va mo'rt o'tish metallidir. Chromium metall sifatida yuqori foydalanish darajasiga ega bo'lib, u xiralashishga qarshilik ko'rsatib, yuqori darajada sayqallanishi mumkin. Xrom, shuningdek, zanglamaydigan po'latning asosiy qo'shimchasi bo'lib, uning g'ayrioddiy yuqori ko'zgu aks etishi tufayli mashhur po'lat qotishmasi hisoblanadi.",
+      "source": "https://en.wikipedia.org/wiki/Chromium",
+      "category": "O'tish metall",
+      "atomic_weight": "51.9961(6) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 42,
+      "name": "Molibden",
+      "symbol": "Mo",
+      "extract": "Molibden — kimyoviy element boʻlib, belgisi Mo va atom raqami 42. Bu nom neo-lotincha molibdaendan olingan boʻlib, qadimgi yunoncha llosbdos molibdos, qoʻrgʻoshin degan maʼnoni anglatadi, chunki uning rudalari qoʻrgʻoshin rudalari bilan aralashib ketgan. Molibden minerallari butun tarix davomida ma'lum bo'lgan, ammo element 1778 yilda Karl Vilgelm Scheele tomonidan kashf etilgan (uni boshqa metallarning mineral tuzlaridan yangi ob'ekt sifatida farqlash ma'nosida). Metall birinchi marta 1781 yilda Piter Yakob Xjelm tomonidan ajratilgan. Molibden Yerda erkin metal sifatida tabiiy ravishda uchramaydi; u faqat minerallarda turli oksidlanish darajalarida uchraydi. Erkin element, kulrang quyma bilan kumush rangli metall, har qanday elementning oltinchi eng yuqori erish nuqtasiga ega.",
+      "source": "https://en.wikipedia.org/wiki/Molybdenum",
+      "category": "O'tish metall",
+      "atomic_weight": "95.95(1) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 74,
+      "name": "Volfram",
+      "symbol": "W",
+      "extract": "Volfram yoki volfram, W belgisi va atom raqami 74 bo'lgan kimyoviy elementdir. Volfram nomi shvedcha volfram mineralining sheeliti, volfram yoki \"og'ir tosh\" ning sobiq nomidan kelib chiqqan. Volfram Yerda tabiiy ravishda topilgan noyob metall bo'lib, deyarli faqat kimyoviy birikmalardagi boshqa elementlar bilan birlashtiriladi. U 1781 yilda yangi element sifatida aniqlangan va birinchi marta 1783 yilda metall sifatida ajratilgan. Uning muhim rudalari orasida volframit va scheelit mavjud.",
+      "source": "https://en.wikipedia.org/wiki/Tungsten",
+      "category": "O'tish metall",
+      "atomic_weight": "183.84(1) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 106,
+      "name": "Seaborgium",
+      "symbol": "Sg",
+      "extract": "Seaborgium - Sg belgisi va atom raqami 106 bo'lgan sintetik kimyoviy element. U amerikalik yadro kimyogari Glenn T. Seaborg sharafiga nomlangan. Sintetik element sifatida u laboratoriyada yaratilishi mumkin, ammo tabiatda topilmaydi. Shuningdek, u radioaktivdir; ma'lum bo'lgan eng barqaror izotop, 269Sg, yarimparchalanish davri taxminan 14 minut. Elementlarning davriy jadvalida u d-blokli transaktinid elementidir. U 7-davrning a'zosi bo'lib, o'tish metallarining 6d seriyasining to'rtinchi a'zosi sifatida 6 elementlar guruhiga kiradi.",
+      "source": "https://en.wikipedia.org/wiki/Seaborgium",
+      "category": "O'tish metall",
+      "atomic_weight": "[269] (mass number)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    null,
+    {
+      "number": 60,
+      "name": "Neodimiy",
+      "symbol": "Nd",
+      "extract": "Neodimiy - Nd belgisi va atom raqami 60 bo'lgan kimyoviy element. Bu yumshoq kumushsimon metall bo'lib, havoda xiralashadi. Neodimiy 1885 yilda avstriyalik kimyogar Karl Auer fon Uelsbax tomonidan kashf etilgan. U monazit va bastnasit rudalarida katta miqdorda mavjud. Neodimiy tabiiy ravishda metall shaklida yoki boshqa lantanidlar bilan aralashmagan holda topilmaydi va u odatda umumiy foydalanish uchun tozalanadi.",
+      "source": "https://en.wikipedia.org/wiki/Neodymium",
+      "category": "Lantanid",
+      "atomic_weight": "144.242(3) u(±)",
+      "colors": [
+        4287349578,
+        4292141399
+      ]
+    },
+    {
+      "number": 92,
+      "name": "Uran",
+      "symbol": "U",
+      "extract": "Uran - kimyoviy element U belgisi va atom raqami 92. Bu davriy sistemaning aktinidlar qatoriga kiruvchi kumush-kulrang metalldir. Uran atomida 92 ta proton va 92 ta elektron mavjud boʻlib, ulardan 6 tasi valent elektrondir. Uran zaif radioaktivdir, chunki uranning barcha izotoplari beqaror, yarim yemirilish davri 159200 yildan 4,5 milliard yilgacha o'zgarib turadi. Tabiiy urandagi eng keng tarqalgan izotoplar uran-238 (146 neytronga ega va 99% dan ortiq) va uran-235 (143 neytronga ega).",
+      "source": "https://en.wikipedia.org/wiki/Uranium",
+      "category": "Aktinid",
+      "atomic_weight": "238.02891(3) u(±)",
+      "colors": [
+        4279161591,
+        4289920762
+      ]
+    },
+    null,
+    null,
+    null,
+    {
+      "number": 25,
+      "name": "Marganets",
+      "symbol": "Mn",
+      "extract": "Marganets - Mn belgisi va atom raqami 25 bo'lgan kimyoviy element. Tabiatda erkin element sifatida uchramaydi; u ko'pincha temir bilan birgalikda minerallarda uchraydi. Marganets muhim sanoat metall qotishmasidan foydalanadigan metalldir, ayniqsa zanglamaydigan po'latlarda.\nTarixan marganets Gretsiyadagi Magnesiya mintaqasidan piroluzit va boshqa qora minerallar uchun nomlangan bo'lib, u magniy va temir rudasi magnetitiga ham o'z nomini bergan. 18-asrning o'rtalariga kelib, shved-german kimyogari Karl Vilgelm Scheele xlor ishlab chiqarish uchun piroluzitdan foydalangan.",
+      "source": "https://en.wikipedia.org/wiki/Manganese",
+      "category": "O'tish metall",
+      "atomic_weight": "54.938043(2) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 43,
+      "name": "Technetium",
+      "symbol": "Tc",
+      "extract": "Texnetiy - Tc belgisi va atom raqami 43 bo'lgan kimyoviy element. Bu izotoplari radioaktiv bo'lgan eng engil element; 97Tc ning to'liq ionlangan holatini hisobga olmaganda, hech biri barqaror emas. Deyarli barcha texnetiy sintetik yo'l bilan ishlab chiqariladi va Yer qobig'ida istalgan vaqtda atigi 18 000 tonnani topish mumkin. Tabiatda uchraydigan texnetiy uran rudasi va toriy rudalarida oʻz-oʻzidan boʻlinish mahsuloti boʻlib, eng keng tarqalgan manba yoki molibden rudalarida neytronlarni tutib olish mahsulotidir. Bu kumushrang kulrang, kristalli oʻtish metall davriy sistemaning 7-guruhidagi reniy va marganets oʻrtasida joylashgan boʻlib, uning kimyoviy xossalari bu ikki qoʻshni elementniki orasida oraliqdir.",
+      "source": "https://en.wikipedia.org/wiki/Technetium",
+      "category": "O'tish metall",
+      "atomic_weight": "[98] (mass number)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 75,
+      "name": "Reniy",
+      "symbol": "Re",
+      "extract": "Reniy - kimyoviy element Re belgisi va atom raqami 75. Bu davriy sistemaning 7-guruhidagi kumushrang-kulrang, og'ir, uchinchi qator o'tish metallidir. Taxminan o'rtacha kontsentratsiyasi milliardga 1 qism (ppb) bo'lgan reniy Yer qobig'idagi eng noyob elementlardan biridir. Reniy 5903 K da har qanday elementning uchinchi eng yuqori erish nuqtasi va ikkinchi eng yuqori qaynash nuqtasiga ega. Reniy kimyoviy jihatdan marganets va texnetiyga o'xshaydi va asosan molibden va mis rudalarini qazib olish va tozalashdan qo'shimcha mahsulot sifatida olinadi. Reniy o'z birikmalarida -1 dan +7 gacha bo'lgan turli xil oksidlanish darajalarini ko'rsatadi.",
+      "source": "https://en.wikipedia.org/wiki/Rhenium",
+      "category": "O'tish metall",
+      "atomic_weight": "186.207(1) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 107,
+      "name": "Borium",
+      "symbol": "Bh",
+      "extract": "Borium - Bh belgisi va atom raqami 107 bo'lgan sintetik kimyoviy element. U Daniya fizigi Niels Bor sharafiga nomlangan. Sintetik element sifatida u laboratoriyada yaratilishi mumkin, ammo tabiatda topilmaydi. U radioaktivdir: uning eng barqaror izotopi, 270Bh, yarimparchalanish davri taxminan 61 soniyani tashkil qiladi, ammo tasdiqlanmagan 278Bh ning yarimparchalanish muddati taxminan 690 soniyani tashkil qilishi mumkin.\nElementlarning davriy jadvalida u d-blokli transaktinid elementidir.",
+      "source": "https://en.wikipedia.org/wiki/Bohrium",
+      "category": "O'tish metall",
+      "atomic_weight": "[270] (mass number)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    null,
+    {
+      "number": 61,
+      "name": "Prometiy",
+      "symbol": "Pm",
+      "extract": "Prometiy - Pm belgisi va atom raqami 61 bo'lgan kimyoviy element. Uning barcha izotoplari radioaktivdir; u juda kam uchraydi, har qanday vaqtda Yer qobig'ida atigi 500-600 gramm tabiiy ravishda uchraydi. Prometiy davriy jadvalda barqaror shaklga ega bo'lgan elementlardan keyin ikkita radioaktiv elementdan biri, ikkinchisi texnetiydir. Kimyoviy jihatdan prometiy lantaniddir. Prometiy faqat bitta barqaror oksidlanish darajasini +3 ko'rsatadi.",
+      "source": "https://en.wikipedia.org/wiki/Promethium",
+      "category": "Lantanid",
+      "atomic_weight": "[145] (mass number)",
+      "colors": [
+        4287349578,
+        4292141399
+      ]
+    },
+    {
+      "number": 93,
+      "name": "Neptun",
+      "symbol": "Np",
+      "extract": "Neptunium - Np belgisi va atom raqami 93 bo'lgan kimyoviy element. Radioaktiv aktinidli metall, neptunium birinchi transuranik elementdir. Uning davriy jadvaldagi Uran sayyorasi nomi bilan atalgan urandan keyingi o'rni, Urandan keyingi sayyora Neptun nomiga olib keldi. Neptuniy atomida 93 ta proton va 93 ta elektron mavjud bo'lib, ulardan 7 tasi valent elektrondir. Neptunium metall kumush rangga ega va havo ta'sirida xiralashadi.",
+      "source": "https://en.wikipedia.org/wiki/Neptunium",
+      "category": "Aktinid",
+      "atomic_weight": "[237] (mass number)",
+      "colors": [
+        4279161591,
+        4289920762
+      ]
+    },
+    null,
+    null,
+    null,
+    {
+      "number": 26,
+      "name": "Temir",
+      "symbol": "Fe",
+      "extract": "Temir () - Fe (lotincha: ferrum) belgisi va atom raqami 26 bo'lgan kimyoviy element. Bu davriy sistemaning birinchi o'tish qatori va 8-guruhiga kiruvchi metall. U massasi bo'yicha Yerdagi eng keng tarqalgan element bo'lib, Yerning tashqi va ichki yadrosining katta qismini tashkil qiladi. Bu Yer qobig'idagi to'rtinchi eng keng tarqalgan element.\nSof temir er qobig'ida juda kam uchraydi, asosan meteoritlar bilan cheklangan.",
+      "source": "https://en.wikipedia.org/wiki/Iron",
+      "category": "O'tish metall",
+      "atomic_weight": "55.845(2) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 44,
+      "name": "Ruteniy",
+      "symbol": "Ru",
+      "extract": "Ruteniy - kimyoviy element Ru belgisi va atom raqami 44. Bu davriy sistemaning platina guruhiga mansub noyob o'tish metallidir. Platina guruhining boshqa metallari singari, ruteniy ham boshqa kimyoviy moddalarga nisbatan inertdir. Boltiqbo'yi-germaniyalik ajdodlari rus olimi Karl Ernst Klaus 1844 yilda Qozon davlat universitetida elementni topdi va uni o'z vatani Ruteniyaning lotincha nomi sharafiga nomladi. Ruteniy odatda platina rudalarining kichik komponenti sifatida topiladi; yillik ishlab chiqarish 2009 yilda 19 tonnadan 2017 yilda 35,5 tonnagacha ko'tarildi.",
+      "source": "https://en.wikipedia.org/wiki/Ruthenium",
+      "category": "O'tish metall",
+      "atomic_weight": "101.07(2) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 76,
+      "name": "Osmiy",
+      "symbol": "Os",
+      "extract": "Osmiy (yunoncha ὀsmk osme, \"hid\" dan) - Os belgisi va atom raqami 76 bo'lgan kimyoviy element. Platina guruhidagi qattiq, mo'rt, mavimsi-oq o'tish metalli bo'lib, asosan qotishmalarda iz element sifatida topiladi. platina rudalarida. Osmiy eng zich tabiiy element bo'lib, eksperimental ravishda o'lchangan (rentgen kristallografiyasi yordamida) zichligi 22,59 g / sm3. Ishlab chiqaruvchilar uning qotishmalaridan platina, iridiy va boshqa platina guruhidagi metallar bilan favvora qalam uchlarini burish, elektr kontaktlari va haddan tashqari chidamlilik va qattiqlikni talab qiladigan boshqa ilovalarda ishlatishadi. Elementning Yer qobig'ida ko'pligi eng kam uchraydigan elementlardan biridir.",
+      "source": "https://en.wikipedia.org/wiki/Osmium",
+      "category": "O'tish metall",
+      "atomic_weight": "190.23(3) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 108,
+      "name": "Hasiy",
+      "symbol": "Hs",
+      "extract": "Gassium - Hs belgisi va atom raqami 108 bo'lgan sintetik kimyoviy element. U Germaniyaning Gessen shtati sharafiga nomlangan. Bu sintetik element va radioaktiv; ma'lum bo'lgan eng barqaror izotop, 270Hs, taxminan 10 soniya yarim umrga ega.\nElementlarning davriy jadvalida u d-blokli transaktinid elementidir. Hassiy 7-davrning a'zosi bo'lib, 8-guruh elementlariga kiradi: shuning uchun u o'tish metallarining 6d seriyasining oltinchi a'zosidir.",
+      "source": "https://en.wikipedia.org/wiki/Hassium",
+      "category": "O'tish metall",
+      "atomic_weight": "[270] (mass number)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    null,
+    {
+      "number": 62,
+      "name": "Samariy",
+      "symbol": "Sm",
+      "extract": "Samarium - Sm belgisi va atom raqami 62 bo'lgan kimyoviy element. Bu o'rtacha qattiq kumushsimon metall bo'lib, havoda asta-sekin oksidlanadi. Lantanidlar seriyasining odatiy a'zosi bo'lgan samarium odatda +3 oksidlanish holatini qabul qiladi. Samarium (II) ning birikmalari ham ma'lum, xususan, monooksid SmO, monoxalkogenidlar SmS, SmSe va SmTe, shuningdek samarium (II) yodid. Oxirgi birikma kimyoviy sintezda keng tarqalgan qaytaruvchi vositadir.",
+      "source": "https://en.wikipedia.org/wiki/Samarium",
+      "category": "Lantanid",
+      "atomic_weight": "150.36(2) u(±)",
+      "colors": [
+        4287349578,
+        4292141399
+      ]
+    },
+    {
+      "number": 94,
+      "name": "Plutoniy",
+      "symbol": "Pu",
+      "extract": "Plutoniy - Pu belgisi va atom raqami 94 bo'lgan radioaktiv kimyoviy element. U kumushrang-kulrang ko'rinishdagi aktinid metall bo'lib, havo ta'sirida xiralashadi va oksidlanganda xira qoplama hosil qiladi. Element odatda oltita allotrop va to'rtta oksidlanish darajasini ko'rsatadi. U uglerod, galogenlar, azot, kremniy va vodorod bilan reaksiyaga kirishadi. Nam havo ta'sirida u namunani 70% gacha kengaytirishi mumkin bo'lgan oksidlar va gidridlarni hosil qiladi, bu esa o'z navbatida piroforik kukun sifatida parchalanadi.",
+      "source": "https://en.wikipedia.org/wiki/Plutonium",
+      "category": "Aktinid",
+      "atomic_weight": "[244] (mass number)",
+      "colors": [
+        4279161591,
+        4289920762
+      ]
+    },
+    null,
+    null,
+    null,
+    {
+      "number": 27,
+      "name": "Kobalt",
+      "symbol": "Co",
+      "extract": "Kobalt - Co belgisi va atom raqami 27 bo'lgan kimyoviy element. Nikel singari, kobalt ham Yer qobig'ida tabiiy meteorik temirning qotishmalarida topilgan kichik konlarni hisobga olmaganda, faqat kimyoviy kombinatsiyalangan holda topiladi. Reduktiv eritish natijasida hosil bo'lgan erkin element qattiq, yorqin, kumushrang kulrang metalldir.\nKobaltga asoslangan ko'k pigmentlar (kobalt ko'k) qadim zamonlardan beri zargarlik buyumlari va bo'yoqlar uchun ishlatilgan va shishaga o'ziga xos ko'k rang berish uchun ishlatilgan, ammo keyinchalik alkimyogarlar bu rangni ma'lum bo'lgan metall vismut tufayli deb o'ylashgan. Konchilar ko'k rangli pigment ishlab chiqaruvchi minerallarning bir qismi uchun kobold rudasi (nemischa goblin rudasi) nomini uzoq vaqtdan beri ishlatishgan; ular ma'lum metallarga kambag'al bo'lganlari uchun shunday nomlanganlar va eritilganda zaharli mishyakli bug'lar bergan.",
+      "source": "https://en.wikipedia.org/wiki/Cobalt",
+      "category": "O'tish metall",
+      "atomic_weight": "58.933194(3) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 45,
+      "name": "Rodiy",
+      "symbol": "Rh",
+      "extract": "Rodiy - Rh belgisi va atom raqami 45 bo'lgan kimyoviy element. Bu noyob, kumushrang-oq, qattiq, korroziyaga chidamli va kimyoviy jihatdan inert o'tish metallidir. Bu olijanob metall va platina guruhining a'zosi. U faqat bitta tabiiy izotopga ega, 103Rh. Tabiiy rodyum odatda erkin metall sifatida, shunga o'xshash metallar bilan qotishma va kamdan-kam hollarda bowieit va rodplumsit kabi minerallarda kimyoviy birikma sifatida topiladi.",
+      "source": "https://en.wikipedia.org/wiki/Rhodium",
+      "category": "O'tish metall",
+      "atomic_weight": "102.90549(2) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 77,
+      "name": "Iridium",
+      "symbol": "Ir",
+      "extract": "Iridiy - Ir belgisi va atom raqami 77 bo'lgan kimyoviy element. Platina guruhining juda qattiq, mo'rt, kumush-oq o'tish metalli, iridiy zichligi bo'yicha ikkinchi o'rinda turadi (osmiydan keyin) zichligi aniqlanganidek 22,56 g / sm3. eksperimental rentgen kristallografiyasi yordamida. Xona haroratida va standart atmosfera bosimida iridiy 22,65 g / sm3 zichlikka ega, xuddi shu tarzda o'lchangan osmiydan 0,04 g / sm3 yuqori. Bu 2000 °C gacha bo'lgan haroratlarda ham korroziyaga eng chidamli metalldir. Faqat ma'lum erigan tuzlar va galogenlar qattiq iridiy uchun korroziy bo'lsa-da, mayda bo'lingan iridiy changlari ancha reaktiv va yonuvchan bo'lishi mumkin.\nIridiy 1803 yilda tabiiy platinadagi erimaydigan aralashmalar orasidan topilgan.",
+      "source": "https://en.wikipedia.org/wiki/Iridium",
+      "category": "O'tish metall",
+      "atomic_weight": "192.217(2) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 109,
+      "name": "Meitnerium",
+      "symbol": "Mt",
+      "extract": "Meitnerium - Mt belgisi va atom raqami 109 bo'lgan sintetik kimyoviy element. Bu juda radioaktiv sintetik element (tabiatda uchramaydigan, ammo laboratoriyada yaratilishi mumkin bo'lgan element). Ma'lum bo'lgan eng barqaror izotopi meitnerium-278 ning yarimparchalanish davri 7,6 sekundni tashkil qiladi, ammo tasdiqlanmagan meitnerium-282 ning yarimparchalanish davri 67 sekund bo'lishi mumkin. Darmshtadt (Germaniya) yaqinidagi GSI Helmholtz og'ir ionlarni o'rganish markazi bu elementni birinchi marta 1982 yilda yaratgan. U Lise Meitner nomi bilan atalgan.",
+      "source": "https://en.wikipedia.org/wiki/Meitnerium",
+      "category": "Noma'lum kimyoviy xususiyatlar",
+      "atomic_weight": "[278] (mass number)",
+      "colors": [
+        4285890458,
+        4292337128
+      ]
+    },
+    null,
+    {
+      "number": 63,
+      "name": "Yevropa",
+      "symbol": "Eu",
+      "extract": "Evropium - kimyoviy element bo'lib, Eu belgisi va atom raqami 63. U 1901 yilda izolyatsiya qilingan va Evropa qit'asi sharafiga nomlangan. Bu o'rtacha qattiq, kumushsimon metall bo'lib, havoda va suvda oson oksidlanadi. Lantanidlar seriyasining tipik a'zosi bo'lgan evropium odatda +3 oksidlanish darajasini oladi, ammo oksidlanish darajasi +2 ham keng tarqalgan. Oksidlanish darajasi +2 bo'lgan barcha evropium birikmalari biroz kamayadi.",
+      "source": "https://en.wikipedia.org/wiki/Europium",
+      "category": "Lantanid",
+      "atomic_weight": "151.964(1) u(±)",
+      "colors": [
+        4287349578,
+        4292141399
+      ]
+    },
+    {
+      "number": 95,
+      "name": "Amerikiy",
+      "symbol": "Am",
+      "extract": "Ameritsium - Am ramzi va atom raqami 95 bo'lgan sintetik kimyoviy element. U radioaktiv va aktinidlar seriyasining transuranik a'zosi bo'lib, davriy jadvalda lantanid elementi evropiy ostida joylashgan va shuning uchun analogiyaga ko'ra Amerika nomi bilan atalgan. 1944 yilda Kaliforniyaning Berkli shahridan Glenn T. Seaborg guruhi tomonidan Manxetten loyihasining bir qismi bo'lgan Chikago universitetining metallurgiya laboratoriyasida ishlab chiqarilgan. Bu transuranik seriyadagi uchinchi element bo'lsa-da, u og'irroq kuriumdan keyin to'rtinchi o'rinda topilgan. Bu kashfiyot sir saqlangan va faqat 1945 yilning noyabrida ommaga e'lon qilingan. Ko'pchilik ameritsiy yadroviy reaktorlarda neytronlar bilan bombardimon qilingan uran yoki plutoniy natijasida hosil bo'ladi - bir tonna ishlatilgan yadro yoqilg'isida taxminan 100 gramm ameritsiy mavjud.",
+      "source": "https://en.wikipedia.org/wiki/Americium",
+      "category": "Aktinid",
+      "atomic_weight": "[243] (mass number)",
+      "colors": [
+        4279161591,
+        4289920762
+      ]
+    },
+    null,
+    null,
+    null,
+    {
+      "number": 28,
+      "name": "Nikel",
+      "symbol": "Ni",
+      "extract": "Nikel - Ni belgisi va atom raqami 28 bo'lgan kimyoviy element. Bu kumush-oq rangli, engil oltin tusli yorqin metalldir. Nikel o'tish metallariga tegishli bo'lib, qattiq va egiluvchandir. Reaktiv sirt maydonini maksimal darajada oshirish uchun kukunga aylantirilgan sof nikel sezilarli kimyoviy faollikni ko'rsatadi, ammo standart sharoitlarda kattaroq bo'laklar havo bilan reaksiyaga kirishadi, chunki sirtda oksid qatlami hosil bo'ladi va keyingi korroziyani (passivatsiyani) oldini oladi. Shunga qaramay, sof mahalliy nikel Yer qobig'ida juda oz miqdorda, odatda ultramafik jinslarda va Yer atmosferasidan tashqarida kislorodga ta'sir qilmagan kattaroq nikel-temir meteoritlarning ichki qismida joylashgan.",
+      "source": "https://en.wikipedia.org/wiki/Nickel",
+      "category": "O'tish metall",
+      "atomic_weight": "58.6934(4) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 46,
+      "name": "Palladiy",
+      "symbol": "Pd",
+      "extract": "Palladiy - Pd belgisi va atom raqami 46 bo'lgan kimyoviy element. U 1803 yilda Uilyam Xayd Vollaston tomonidan kashf etilgan noyob va yorqin kumush-oq metalldir. U buni Pallas asteroidi sharafiga qo'ydi, uning o'zi Pallasni o'ldirganida yunon ma'budasi Afinaning epiteti sharafiga nomlangan. Palladiy, platina, rodiy, ruteniy, iridiy va osmiy platina guruhi metallari (PGM) deb ataladigan elementlar guruhini tashkil qiladi. Ular o'xshash kimyoviy xususiyatlarga ega, ammo palladiy eng past erish nuqtasiga ega va ularning eng kam zichligi.",
+      "source": "https://en.wikipedia.org/wiki/Palladium",
+      "category": "O'tish metall",
+      "atomic_weight": "106.42(1) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 78,
+      "name": "Platina",
+      "symbol": "Pt",
+      "extract": "Platina - Pt belgisi va atom raqami 78 bo'lgan kimyoviy element. Bu zich, egiluvchan, egiluvchan, o'ta reaktiv, qimmatbaho, kumushrang-oq o'tish metallidir. Uning nomi ispancha \"platino\" atamasidan olingan bo'lib, \"kichik kumush\" degan ma'noni anglatadi.Platina elementlarning platina guruhiga va elementlar davriy jadvalining 10-guruhiga kiradi. U oltita tabiiy izotopga ega. Bu Yer qobig'idagi noyob elementlardan biri bo'lib, o'rtacha ko'pligi taxminan 5 mkg / kg ni tashkil qiladi.",
+      "source": "https://en.wikipedia.org/wiki/Platinum",
+      "category": "O'tish metall",
+      "atomic_weight": "195.084(9) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 110,
+      "name": "Darmshtadtium",
+      "symbol": "Ds",
+      "extract": "Darmshtadtiy - Ds belgisi va atom raqami 110 bo'lgan sintetik kimyoviy element. Bu juda radioaktiv sintetik element. Ma'lum bo'lgan eng barqaror izotopi darmshtadtiy-281ning yarimparchalanish davri taxminan 12,7 soniyani tashkil qiladi. Darmshtadtium birinchi marta 1994 yilda Germaniyaning Darmshtadt shahri yaqinida GSI Helmholtz Og'ir Ion Tadqiqot Markazi tomonidan yaratilgan va shu nom bilan atalgan.\nDavriy jadvalda u d-blokli transaktinid elementidir.",
+      "source": "https://en.wikipedia.org/wiki/Darmstadtium",
+      "category": "Noma'lum kimyoviy xususiyatlar",
+      "atomic_weight": "[281] (mass number)",
+      "colors": [
+        4285890458,
+        4292337128
+      ]
+    },
+    null,
+    {
+      "number": 64,
+      "name": "Gadoliniy",
+      "symbol": "Gd",
+      "extract": "Gadoliniy - Gd belgisi va atom raqami 64 bo'lgan kimyoviy element. Gadoliniy kumushsimon oq, egiluvchan va egiluvchan noyob tuproq metalidir. Tabiatda faqat oksidlangan holda topiladi va hatto ajratilganda ham u odatda boshqa noyob erlarning aralashmalariga ega. Gadoliniy 1880 yilda Jan Sharl de Marinyak tomonidan kashf etilgan va u spektroskopiya yordamida uning oksidini aniqlagan. U gadoliniy topilgan minerallardan biri bo'lgan gadolinit minerali sharafiga nomlangan, o'zi kimyogar Yoxan Gadolin sharafiga nomlangan.",
+      "source": "https://en.wikipedia.org/wiki/Gadolinium",
+      "category": "Lantanid",
+      "atomic_weight": "157.25(3) u(±)",
+      "colors": [
+        4287349578,
+        4292141399
+      ]
+    },
+    {
+      "number": 96,
+      "name": "Kurium",
+      "symbol": "Cm",
+      "extract": "Curium belgisi Cm va atom raqami 96 bo'lgan transuranik radioaktiv kimyoviy elementdir. Aktinidlar seriyasining ushbu elementi Mari va Per Kyuri sharafiga nomlangan - ikkalasi ham radioaktivlik bo'yicha tadqiqotlari bilan mashhur edi. Curium birinchi marta 1944 yil iyul oyida Berkli Kaliforniya universitetida Glenn T. Seaborg guruhi tomonidan ataylab ishlab chiqarilgan va aniqlangan. Bu kashfiyot sir saqlangan va faqat 1947 yilning noyabrida ommaga e'lon qilingan. Ko'pchilik kuriy yadroviy reaktorlarda uran yoki plutoniyni neytronlar bilan bombardimon qilish natijasida hosil bo'ladi - bir tonna ishlatilgan yadro yoqilg'isida taxminan 20 gramm kuriy bor.",
+      "source": "https://en.wikipedia.org/wiki/Curium",
+      "category": "Aktinid",
+      "atomic_weight": "[247] (mass number)",
+      "colors": [
+        4279161591,
+        4289920762
+      ]
+    },
+    null,
+    null,
+    null,
+    {
+      "number": 29,
+      "name": "Mis",
+      "symbol": "Cu",
+      "extract": "Mis - Cu (lotincha: cuprum) belgisi va atom raqami 29 bo'lgan kimyoviy element. Bu juda yuqori issiqlik va elektr o'tkazuvchanligiga ega yumshoq, egiluvchan va egiluvchan metall. Sof misning yangi ochilgan yuzasi pushti-to'q sariq rangga ega. Mis issiqlik va elektr o'tkazuvchisi sifatida, qurilish materiali sifatida va turli xil metall qotishmalarining tarkibiy qismi sifatida ishlatiladi, masalan, zargarlik buyumlarida ishlatiladigan kumush, dengiz buyumlari va tangalar ishlab chiqarish uchun ishlatiladigan kupronikel, deformatsiya o'lchagichlar va termojuftlarda ishlatiladigan konstantan. haroratni o'lchash uchun.\nMis tabiatda to'g'ridan-to'g'ri ishlatiladigan metall shaklida (mahalliy metallar) paydo bo'lishi mumkin bo'lgan bir nechta metallardan biridir.",
+      "source": "https://en.wikipedia.org/wiki/Copper",
+      "category": "O'tish metall",
+      "atomic_weight": "63.546(3) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 47,
+      "name": "Kumush",
+      "symbol": "Ag",
+      "extract": "Kumush - Ag belgisiga ega kimyoviy element (lotincha argentumdan, proto-hind-evropacha h₂erǵ: \"porloq\" yoki \"oq\" dan olingan) va atom raqami 47. Yumshoq, oq, yorqin o'tish metalli, u eng yuqori ko'rsatkichni namoyish etadi. har qanday metallning elektr o'tkazuvchanligi, issiqlik o'tkazuvchanligi va aks ettirish qobiliyati. Metall Yer qobig'ida sof, erkin elementar shaklda (\"mahalliy kumush\"), oltin va boshqa metallar bilan qotishma, argentit va xlorargirit kabi minerallarda uchraydi. Kumushning ko'p qismi mis, oltin, qo'rg'oshin va sinkni tozalashning yon mahsuloti sifatida ishlab chiqariladi.\nKumush qadimdan qimmatbaho metall sifatida qadrlangan.",
+      "source": "https://en.wikipedia.org/wiki/Silver",
+      "category": "O'tish metall",
+      "atomic_weight": "107.8682(2) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 79,
+      "name": "Oltin",
+      "symbol": "Au",
+      "extract": "Oltin - Au (lotin tilidan: aurum) belgisi va atom raqami 79 bo'lgan kimyoviy element bo'lib, uni tabiiy ravishda paydo bo'ladigan eng yuqori atom raqamli elementlardan biriga aylantiradi. Eng sof shaklda u yorqin, bir oz qizg'ish sariq, zich, yumshoq, egiluvchan va egiluvchan metalldir. Kimyoviy jihatdan oltin o'tish metalli va 11-guruh elementidir. Bu eng kam reaktiv kimyoviy elementlardan biri va standart sharoitlarda qattiqdir. Oltin ko'pincha erkin elementar (mahalliy) shaklda, nuggetlar yoki donalar shaklida, toshlarda, tomirlarda va allyuvial konlarda uchraydi..",
+      "source": "https://en.wikipedia.org/wiki/Gold",
+      "category": "O'tish metall",
+      "atomic_weight": "196.966570(4) u(±)",
+      "colors": [
+        4294953512,
+        4294963811
+      ]
+    },
+    {
+      "number": 111,
+      "name": "Rentgeniy",
+      "symbol": "Rg",
+      "extract": "Rentgeniy - Rg belgisi va atom raqami 111 bo'lgan kimyoviy element. Bu laboratoriyada yaratilishi mumkin bo'lgan, ammo tabiatda uchramaydigan o'ta radioaktiv sintetik element. Ma'lum bo'lgan eng barqaror izotop, rentgeniy-282ning yarimparchalanish davri 100 soniyani tashkil qiladi, ammo tasdiqlanmagan rentgeniy-286 ning yarimparchalanish davri taxminan 10,7 daqiqani tashkil qilishi mumkin. Rentgenium birinchi marta 1994 yilda Germaniyaning Darmshtadt yaqinidagi GSI Helmgoltz og'ir ionlarni o'rganish markazi tomonidan yaratilgan. U rentgen nurlarini kashf etgan fizik Vilgelm Rentgen (shuningdek, Rentgen deb ham ataladi) sharafiga nomlangan.",
+      "source": "https://en.wikipedia.org/wiki/Roentgenium",
+      "category": "Noma'lum kimyoviy xususiyatlar",
+      "atomic_weight": "[282] (mass number)",
+      "colors": [
+        4285890458,
+        4292337128
+      ]
+    },
+    null,
+    {
+      "number": 65,
+      "name": "Terbiyum",
+      "symbol": "Tb",
+      "extract": "Terbiy - Tb belgisi va atom raqami 65 bo'lgan kimyoviy element. Bu kumushsimon oq, nodir tuproq metall bo'lib, egiluvchan, egiluvchan va pichoq bilan kesish uchun etarlicha yumshoq. Lantanidlar turkumining toʻqqizinchi aʼzosi boʻlgan terbiy juda elektromusbat metall boʻlib, suv bilan reaksiyaga kirishib, vodorod gazini hosil qiladi. Terbiy tabiatda hech qachon erkin element sifatida topilmaydi, lekin u ko'plab minerallar, jumladan serit, gadolinit, monazit, ksenotim va euksenitda mavjud.\nShved kimyogari Karl Gustaf Mosander 1843 yilda terbiyni kimyoviy element sifatida kashf etdi.",
+      "source": "https://en.wikipedia.org/wiki/Terbium",
+      "category": "Lantanid",
+      "atomic_weight": "158.925354(8) u(±)",
+      "colors": [
+        4287349578,
+        4292141399
+      ]
+    },
+    {
+      "number": 97,
+      "name": "Berkelium",
+      "symbol": "Bk",
+      "extract": "Berkeliy - Bk belgisi va atom raqami 97 bo'lgan transuranik radioaktiv kimyoviy element. U aktinid va transuran elementlari qatoriga kiradi. U Kaliforniyaning Berkli shahri sharafiga, Lourens Berkli milliy laboratoriyasi (keyinchalik Kaliforniya universiteti radiatsiya laboratoriyasi) joylashgan joyda 1949-yil dekabr oyida kashf etilgan. Berkeliy neptuniy, plutoniy, kuriy va boshqa elementlardan keyin topilgan beshinchi transuran elementi edi. ameriy.\nBerkeliyning asosiy izotopi 249Bk, asosan, AQShning Tennessi shtatidagi Oak Ridj milliy laboratoriyasida va Dimitrovgraddagi (Rossiya) Atom reaktorlari ilmiy-tadqiqot institutida maxsus yuqori oqimli yadro reaktorlarida bir necha daqiqada sintezlanadi.",
+      "source": "https://en.wikipedia.org/wiki/Berkelium",
+      "category": "Aktinid",
+      "atomic_weight": "[247] (mass number)",
+      "colors": [
+        4279161591,
+        4289920762
+      ]
+    },
+    null,
+    null,
+    null,
+    {
+      "number": 30,
+      "name": "Sink",
+      "symbol": "Zn",
+      "extract": "Rux - Zn belgisi va atom raqami 30 bo'lgan kimyoviy element. Davriy sistemaning 12-guruhidagi birinchi element. Ba'zi jihatlari bo'yicha rux kimyoviy jihatdan magniyga o'xshaydi: ikkala element ham faqat bitta normal oksidlanish holatini ko'rsatadi (+2), Zn2+ va Mg2+ ionlari esa bir xil darajada. Rux Yer qobig'ida 24-o'rinda turadi va beshta barqaror izotopga ega. Eng keng tarqalgan rux rudasi sfalerit (rux aralashmasi), rux sulfid mineralidir.",
+      "source": "https://en.wikipedia.org/wiki/Zinc",
+      "category": "O'tishdan keyingi metall",
+      "atomic_weight": "65.38(2) u(±)",
+      "colors": [
+        4279343502,
+        4281921405
+      ]
+    },
+    {
+      "number": 48,
+      "name": "kadmiy",
+      "symbol": "Cd",
+      "extract": "Kadmiy - Cd belgisi va atom raqami 48 bo'lgan kimyoviy element. Bu yumshoq, zangori-oq metall kimyoviy jihatdan 12-guruhdagi boshqa ikkita barqaror metallar, sink va simobga o'xshaydi. Rux singari, u ko'pgina birikmalarida oksidlanish darajasini +2 ko'rsatadi va simob kabi, 3 dan 11 gacha bo'lgan guruhlardagi o'tish metallariga qaraganda past erish nuqtasiga ega. ular elementar yoki umumiy oksidlanish darajalarida qisman to'ldirilgan d yoki f elektron qobiqlarga ega emasligi. Yer qobig'idagi kadmiyning o'rtacha kontsentratsiyasi millionda 0,1 dan 0,5 gacha (ppm).",
+      "source": "https://en.wikipedia.org/wiki/Cadmium",
+      "category": "O'tishdan keyingi metall",
+      "atomic_weight": "112.414(4) u(±)",
+      "colors": [
+        4279343502,
+        4281921405
+      ]
+    },
+    {
+      "number": 80,
+      "name": "Merkuriy",
+      "symbol": "Hg",
+      "extract": "Simob ramzi Hg va atom raqami 80 bo'lgan kimyoviy elementdir. U tez kumush sifatida tanilgan va ilgari hydrargyrum (hy-DRAR-jer-əm) deb nomlangan. Og'ir, kumush rangli d-blok elementi, simob harorat va bosim uchun standart sharoitlarda suyuq bo'lgan yagona metall element; Bunday sharoitda suyuq bo'lgan yagona boshqa element halogen bromdir, ammo seziy, galiy va rubidiy kabi metallar xona haroratidan biroz yuqoriroq eriydi.\nSimob butun dunyo konlarida asosan kinobar (simob sulfid) shaklida uchraydi. Qizil pigment vermilion tabiiy kinobar yoki sintetik simob sulfidini maydalash orqali olinadi.",
+      "source": "https://en.wikipedia.org/wiki/Mercury (element)",
+      "category": "O'tishdan keyingi metall",
+      "atomic_weight": "200.592(3) u(±)",
+      "colors": [
+        4279343502,
+        4281921405
+      ]
+    },
+    {
+      "number": 112,
+      "name": "Kopernik",
+      "symbol": "Cn",
+      "extract": "Kopernisiy - Cn belgisi va atom raqami 112 bo'lgan sintetik kimyoviy element. Uning ma'lum izotoplari juda radioaktiv bo'lib, faqat laboratoriyada yaratilgan. Ma'lum bo'lgan eng barqaror izotopi kopernisiy-285 ning yarim yemirilish davri taxminan 29 soniyani tashkil qiladi. Copernicium birinchi marta 1996 yilda Germaniyaning Darmshtadt yaqinidagi GSI Helmgoltz og'ir ionlarni o'rganish markazi tomonidan yaratilgan. U astronom Nikolay Kopernik sharafiga nomlangan.",
+      "source": "https://en.wikipedia.org/wiki/Copernicium",
+      "category": "O'tishdan keyingi metall",
+      "atomic_weight": "[285] (mass number)",
+      "colors": [
+        4279343502,
+        4281921405
+      ]
+    },
+    null,
+    {
+      "number": 66,
+      "name": "Disprosium",
+      "symbol": "Dy",
+      "extract": "Disprosiy - Dy belgisi va atom raqami 66 bo'lgan kimyoviy element. Bu metall kumush yorqinligi bilan noyob tuproq elementi. Disprosiy tabiatda hech qachon erkin element sifatida topilmaydi, ammo u turli minerallarda, masalan, ksenotimda mavjud. Tabiatda paydo bo'lgan disprozium ettita izotopdan iborat bo'lib, ularning eng ko'p miqdori 164Dy.\nDisprosium birinchi marta 1886 yilda Pol Emile Lekok de Boisbodran tomonidan aniqlangan, ammo 1950-yillarda ion almashinuvi texnikasi ishlab chiqilgunga qadar u sof shaklda ajratilmagan.",
+      "source": "https://en.wikipedia.org/wiki/Dysprosium",
+      "category": "Lantanid",
+      "atomic_weight": "162.500(1) u(±)",
+      "colors": [
+        4287349578,
+        4292141399
+      ]
+    },
+    {
+      "number": 98,
+      "name": "Kaliforniya",
+      "symbol": "Cf",
+      "extract": "Kaliforniy - Cf belgisi va atom raqami 98 bo'lgan radioaktiv kimyoviy element. Element birinchi marta 1950 yilda Lorens Berkli milliy laboratoriyasida (o'sha paytda Kaliforniya universiteti radiatsiya laboratoriyasi) kuriyni alfa zarralari (geliy-4 ionlari) bilan bombardimon qilish yo'li bilan sintez qilingan. Bu aktinid elementi bo'lib, sintez qilinadigan oltinchi transuran elementi bo'lib, qurolsiz ko'z bilan ko'rish uchun etarlicha katta miqdorda hosil bo'lgan barcha elementlarning atom massasi bo'yicha ikkinchi o'rinda turadi (eynshteyndan keyin). Element universitet va Kaliforniya shtati nomi bilan atalgan.\nOddiy bosim ostida kaliforniyning ikkita kristalli shakli mavjud: biri 900 ° C (1650 ° F) dan yuqori va ikkinchisi.",
+      "source": "https://en.wikipedia.org/wiki/Californium",
+      "category": "Aktinid",
+      "atomic_weight": "[251] (mass number)",
+      "colors": [
+        4279161591,
+        4289920762
+      ]
+    },
+    null,
+    {
+      "number": 5,
+      "name": "Bor",
+      "symbol": "B",
+      "extract": "Bor - B belgisi va atom raqami 5 bo'lgan kimyoviy element. Yulduzlar nukleosintezi natijasida emas, balki butunlay kosmik nurlarning tarqalishi va o'ta yangi yulduzlar natijasida hosil bo'ladi, u Quyosh tizimida va Yer qobig'ida kam miqdorda element hisoblanadi. Bor Yerda keng tarqalgan tabiiy birikmalar borat minerallarining suvda eruvchanligi bilan to'plangan. Bular boraks va kernit kabi evaporitlar sifatida sanoatda qazib olinadi. Ma'lum bo'lgan eng yirik bor konlari Turkiyada, bor minerallarining eng yirik ishlab chiqaruvchisi.",
+      "source": "https://en.wikipedia.org/wiki/Boron",
+      "category": "Metalloid",
+      "atomic_weight": "10.81 u(±)",
+      "colors": [
+        4278219519,
+        4278241023
+      ]
+    },
+    {
+      "number": 13,
+      "name": "Alyuminiy",
+      "symbol": "Al",
+      "extract": "Alyuminiy yoki alyuminiy - Al belgisi va atom raqami 13 bo'lgan kimyoviy element. Bu bor guruhidagi kumush-oq, yumshoq, magnit bo'lmagan va egiluvchan metalldir. Massasi bo'yicha alyuminiy Yer qobig'ining taxminan 8% ni tashkil qiladi; u kislorod va kremniydan keyin uchinchi eng ko'p element va qobiqdagi eng ko'p metalldir, garchi u quyida joylashgan mantiyada kamroq tarqalgan. Alyuminiyning asosiy rudasi boksitdir. Alyuminiy metall shu qadar kimyoviy reaktivdirki, mahalliy namunalar juda kam uchraydi va haddan tashqari kamaytiruvchi muhit bilan cheklangan.",
+      "source": "https://en.wikipedia.org/wiki/Aluminium",
+      "category": "O'tishdan keyingi metall",
+      "atomic_weight": "26.9815384(3) u(±)",
+      "colors": [
+        4279343502,
+        4281921405
+      ]
+    },
+    {
+      "number": 31,
+      "name": "Galiy",
+      "symbol": "Ga",
+      "extract": "Galliy kimyoviy element bo'lib, Ga belgisi va atom raqami 31. U davriy jadvalning 13-guruhida joylashgan va shu sababli guruhning boshqa metallari, alyuminiy, indiy va talliy bilan o'xshashliklarga ega. Galiy tabiatda erkin element sifatida emas, balki rux rudalarida va boksitda iz miqdorda galiy (III) birikmalari sifatida uchraydi. Element galliy - standart harorat va bosimda yumshoq, kumushrang ko'k metall, past haroratlarda mo'rt qattiq va 29,76 ° C (85,57 ° F) dan yuqori (xona haroratidan yuqori, lekin normal inson tanasi haroratidan past) suyuqlikdir. 37 °C (99 °F), shuning uchun metall odamning qo'lida eriydi).\nGalliyning erish nuqtasi harorat mos yozuvlar nuqtasi sifatida ishlatiladi.",
+      "source": "https://en.wikipedia.org/wiki/Gallium",
+      "category": "O'tishdan keyingi metall",
+      "atomic_weight": "69.723(1) u(±)",
+      "colors": [
+        4279343502,
+        4281921405
+      ]
+    },
+    {
+      "number": 49,
+      "name": "Indiy",
+      "symbol": "In",
+      "extract": "Indiy - In belgisi va atom raqami 49 bo'lgan kimyoviy element. Bu o'tishdan keyingi metall bo'lib, Yer qobig'ining millioniga 0,21 qismini tashkil qiladi. Juda yumshoq va egiluvchan, indiyning erish nuqtasi natriy va galiydan yuqori, lekin litiy va qalaydan past. Kimyoviy jihatdan indiy galliy va talliyga o'xshaydi va u o'z xususiyatlariga ko'ra asosan ikkalasi o'rtasida oraliq hisoblanadi. Indiy 1863 yilda Ferdinand Reyx va Ieronim Teodor Rixter tomonidan spektroskopik usullar bilan kashf etilgan.",
+      "source": "https://en.wikipedia.org/wiki/Indium",
+      "category": "O'tishdan keyingi metall",
+      "atomic_weight": "114.818(1) u(±)",
+      "colors": [
+        4279343502,
+        4281921405
+      ]
+    },
+    {
+      "number": 81,
+      "name": "Talyum",
+      "symbol": "Tl",
+      "extract": "Talliy kimyoviy element boʻlib, Tl belgisi va atom raqami 81. Bu oʻtishdan keyingi kulrang metall boʻlib, tabiatda erkin uchramaydi. Izolyatsiya qilinganida, talliy qalayga o'xshaydi, lekin havo ta'sirida rangi o'zgaradi. Kimyogarlar Uilyam Kruks va Klod-Ogyust Lami 1861 yilda sulfat kislota ishlab chiqarish qoldiqlarida talliyni mustaqil ravishda topdilar. Ikkalasi ham yangi ishlab chiqilgan olov spektroskopiyasi usulidan foydalangan, bunda talliy sezilarli yashil spektral chiziq hosil qiladi.",
+      "source": "https://en.wikipedia.org/wiki/Thallium",
+      "category": "O'tishdan keyingi metall",
+      "atomic_weight": "204.38 u(±)",
+      "colors": [
+        4279343502,
+        4281921405
+      ]
+    },
+    {
+      "number": 113,
+      "name": "Nihonium",
+      "symbol": "Nh",
+      "extract": "Nihonium - Nh belgisi va atom raqami 113 bo'lgan sintetik kimyoviy element. U juda radioaktivdir; uning eng barqaror izotopi, nihonium-286, taxminan 10 soniya yarim umrga ega. Davriy jadvalda nihonium p-blokdagi transaktinid elementidir. U 7-davr va 13-guruh (bor guruhi) a'zosi.\nNihonium birinchi marta 2003 yilda Dubna shahridagi Yadro tadqiqotlari qo'shma institutida (JINR) Rossiya-Amerika hamkorligida va 2004 yilda Yaponiyaning Vako shahridagi Rikendagi yapon olimlari jamoasi tomonidan yaratilgani haqida xabar berilgan.",
+      "source": "https://en.wikipedia.org/wiki/Nihonium",
+      "category": "Noma'lum kimyoviy xususiyatlar",
+      "atomic_weight": "[286] (mass number)",
+      "colors": [
+        4285890458,
+        4292337128
+      ]
+    },
+    null,
+    {
+      "number": 67,
+      "name": "Holmiy",
+      "symbol": "Ho",
+      "extract": "Xolmiy - kimyoviy element bo'lib, Ho belgisi va atom raqami 67. Lantanidlar seriyasining bir qismi, holmium noyob yer elementidir. Xolmiyni shved kimyogari Per Teodor Kliv kashf etgan. Uning oksidi birinchi marta 1878 yilda noyob er rudalaridan ajratilgan. Elementning nomi Stokgolm shahrining lotincha nomi Holmiadan olingan.",
+      "source": "https://en.wikipedia.org/wiki/Holmium",
+      "category": "Lantanid",
+      "atomic_weight": "164.930328(7) u(±)",
+      "colors": [
+        4287349578,
+        4292141399
+      ]
+    },
+    {
+      "number": 99,
+      "name": "Eynshteyn",
+      "symbol": "Es",
+      "extract": "Eynshteyn - Es belgisi va atom raqami 99 bo'lgan sintetik element. Aktinidlar seriyasining a'zosi, u ettinchi transuranik elementdir.\nEynshteyn 1952 yilda birinchi vodorod bombasi portlashi qoldiqlarining tarkibiy qismi sifatida topilgan va Albert Eynshteyn sharafiga nomlangan. Uning eng keng tarqalgan izotopi einsteinium-253 (yarimparchalanish davri 20,47 kun) kaliforniy-253 parchalanishidan sun'iy ravishda yiliga bir milligramm umumiy rentabellikga ega bo'lgan bir nechta maxsus yuqori quvvatli yadro reaktorlarida ishlab chiqariladi. Reaktor sintezi eynshteynyum-253 ni boshqa aktinidlar va ularning parchalanish mahsulotlaridan ajratishning murakkab jarayoni bilan kechadi.",
+      "source": "https://en.wikipedia.org/wiki/Einsteinium",
+      "category": "Aktinid",
+      "atomic_weight": "[252] (mass number)",
+      "colors": [
+        4279161591,
+        4289920762
+      ]
+    },
+    null,
+    {
+      "number": 6,
+      "name": "Uglerod",
+      "symbol": "C",
+      "extract": "Uglerod (lotincha: carbo \"ko'mir\") belgisi C va atom raqami 6 bo'lgan kimyoviy elementdir. U metall bo'lmagan va tetravalent bo'lib, kovalent kimyoviy bog'lanishlar hosil qilish uchun to'rtta elektron mavjud bo'ladi. U davriy jadvalning 14-guruhiga kiradi. Tabiatda uchta izotop mavjud bo'lib, 12C va 13C barqaror, 14C esa radionuklid bo'lib, yarimparchalanish davri taxminan 5730 yilni tashkil qiladi. Uglerod antik davrdan beri ma'lum bo'lgan kam sonli elementlardan biridir. Uglerod Yer qobig'ida eng ko'p tarqalgan 15-o'rinda va massa bo'yicha koinotda vodorod, geliy va kisloroddan keyin to'rtinchi eng keng tarqalgan elementdir.",
+      "source": "https://en.wikipedia.org/wiki/Carbon",
+      "category": "Reaktiv nometall",
+      "atomic_weight": "12.011 u(±)",
+      "colors": [
+        4283657726,
+        4287535603
+      ]
+    },
+    {
+      "number": 14,
+      "name": "Kremniy",
+      "symbol": "Si",
+      "extract": "Silikon kimyoviy element bo'lib, Si belgisi va atom raqami 14. Bu qattiq va mo'rt kristall qattiq modda bo'lib, ko'k-kulrang metall yorqinligi; va u tetravalent metalloid va yarimo'tkazgichdir. Davriy sistemaning 14-guruh a'zosi: uglerod uning ustida joylashgan; germaniy, qalay va qoʻrgʻoshin esa undan pastda joylashgan. U nisbatan noreaktivdir. Kislorodga yuqori kimyoviy yaqinligi tufayli, faqat 1823 yilda Yons Yakob Berzelius birinchi marta uni tayyorlab, uni sof shaklda tavsiflay oldi.",
+      "source": "https://en.wikipedia.org/wiki/Silicon",
+      "category": "Metalloid",
+      "atomic_weight": "28.085 u(±)",
+      "colors": [
+        4278219519,
+        4278241023
+      ]
+    },
+    {
+      "number": 32,
+      "name": "Germaniy",
+      "symbol": "Ge",
+      "extract": "Germaniy - Ge belgisi va atom raqami 32 bo'lgan kimyoviy element. U uglerod guruhidagi yaltiroq, qattiq, kulrang-oq metalloid bo'lib, kimyoviy jihatdan o'zining guruh qo'shnilari kremniy va qalayga o'xshaydi. Sof germaniy - tashqi ko'rinishi elementar kremniyga o'xshash yarimo'tkazgich. Kremniy singari, germaniy ham tabiatda kislorod bilan reaksiyaga kirishadi va komplekslar hosil qiladi.\nU kamdan-kam hollarda yuqori konsentratsiyada paydo bo'lganligi sababli, germaniy kimyo tarixida nisbatan kechroq topilgan.",
+      "source": "https://en.wikipedia.org/wiki/Germanium",
+      "category": "Metalloid",
+      "atomic_weight": "72.630(8) u(±)",
+      "colors": [
+        4278219519,
+        4278241023
+      ]
+    },
+    {
+      "number": 50,
+      "name": "Qalay",
+      "symbol": "Sn",
+      "extract": "Qalay - Sn (lotin tilidan: stannum) belgisi va atom raqami 50 boʻlgan kimyoviy element. Bu elementlar davriy sistemasining 14-guruhidagi oʻtishdan keyingi metalldir. U asosan stannik oksidi SnO2 ni o'z ichiga olgan kassiterit mineralidan olinadi. Qalay 14-guruhdagi germaniy va qo'rg'oshinning ikkala qo'shnisiga kimyoviy o'xshashlikni ko'rsatadi va ikkita asosiy oksidlanish darajasiga ega, +2 va biroz barqarorroq +4. Qalay eng ko'p tarqalgan 49-element bo'lib, 10 ta barqaror izotopga ega, protonlarning sehrli soni tufayli davriy jadvaldagi eng ko'p barqaror izotoplarga ega.",
+      "source": "https://en.wikipedia.org/wiki/Tin",
+      "category": "O'tishdan keyingi metall",
+      "atomic_weight": "118.710(7) u(±)",
+      "colors": [
+        4279343502,
+        4281921405
+      ]
+    },
+    {
+      "number": 82,
+      "name": "Qo'rg'oshin",
+      "symbol": "Pb",
+      "extract": "Qo'rg'oshin () Pb belgisi (lotincha plumbumdan) va atom raqami 82 bo'lgan kimyoviy element. Bu eng keng tarqalgan materiallarga qaraganda zichroq og'ir metaldir. Qo'rg'oshin yumshoq va egiluvchan, shuningdek, nisbatan past erish nuqtasiga ega. Yangi kesilganda, qo'rg'oshin kumush rangga ega bo'lib, ko'k rangga ega; havo ta'sirida xira kulrang rangga aylanadi. Qo'rg'oshin har qanday barqaror elementning eng yuqori atom raqamiga ega va uning uchta izotopining har biri og'irroq elementlarning asosiy parchalanish zanjirini o'z ichiga oladi.",
+      "source": "https://en.wikipedia.org/wiki/Lead",
+      "category": "O'tishdan keyingi metall",
+      "atomic_weight": "207.2(1) u(±)",
+      "colors": [
+        4279343502,
+        4281921405
+      ]
+    },
+    {
+      "number": 114,
+      "name": "Flerovium",
+      "symbol": "Fl",
+      "extract": "Flerovium - Fl belgisi va atom raqami 114 bo'lgan o'ta og'ir sun'iy kimyoviy element. Bu juda radioaktiv sintetik element. Element Rossiyaning Dubna shahridagi Birlashgan yadroviy tadqiqotlar institutining Flerov yadro reaksiyalari laboratoriyasi sharafiga nomlangan boʻlib, u yerda element 1998 yilda kashf etilgan. Laboratoriya nomi oʻz navbatida rus fizigi Georgiy Flyorov (kirill alifbosida Flerov) sharafiga berilgan. , shuning uchun \"yo\" ning \"e\" ga transliteratsiyasi). Bu nom IUPAC tomonidan 2012 yil 30 mayda qabul qilingan.",
+      "source": "https://en.wikipedia.org/wiki/Flerovium",
+      "category": "Noma'lum kimyoviy xususiyatlar",
+      "atomic_weight": "[289] (mass number)",
+      "colors": [
+        4285890458,
+        4292337128
+      ]
+    },
+    null,
+    {
+      "number": 68,
+      "name": "Erbium",
+      "symbol": "Er",
+      "extract": "Erbiy - Er belgisi va atom raqami 68 bo'lgan kimyoviy element. Sun'iy ravishda ajratilganda kumush-oq rangli qattiq metall, tabiiy erbiy har doim boshqa elementlar bilan kimyoviy birikmada topiladi. Bu lantanid, noyob yer elementi bo'lib, dastlab Shvetsiyadagi Ytterbi shahridagi gadolinit konida topilgan va u o'z nomini olgan.\nErbiumning asosiy qo'llanilishi uning pushti rangli Er3+ ionlarini o'z ichiga oladi, ular optik lyuminestsent xususiyatlarga ega, ayniqsa lazerli ilovalarda foydalidir. Erbiy qo'shilgan ko'zoynaklar yoki kristallar optik kuchaytiruvchi vosita sifatida ishlatilishi mumkin, bu erda Er3+ ionlari optik ravishda 980 yoki 1480 nm atrofida pompalanadi va keyin stimulyatsiya qilingan emissiyada 1530 nm yorug'lik chiqaradi.",
+      "source": "https://en.wikipedia.org/wiki/Erbium",
+      "category": "Lantanid",
+      "atomic_weight": "167.259(3) u(±)",
+      "colors": [
+        4287349578,
+        4292141399
+      ]
+    },
+    {
+      "number": 100,
+      "name": "Fermiy",
+      "symbol": "Fm",
+      "extract": "Fermiy - Fm belgisi va atom raqami 100 bo'lgan sintetik element. Bu aktinid va engilroq elementlarning neytron bombardimonidan hosil bo'lishi mumkin bo'lgan eng og'ir element va shuning uchun makroskopik miqdorda tayyorlanishi mumkin bo'lgan oxirgi element, ammo sof fermiy metali hali tayyorlanmagan. Hammasi bo'lib 19 ta izotop ma'lum bo'lib, 257 Fm eng uzoq umr ko'rgan va yarim yemirilish davri 100,5 kun.\nU 1952 yilda birinchi vodorod bombasi portlashi qoldiqlarida topilgan va yadro fizikasining kashshoflaridan biri Enriko Fermi sharafiga nomlangan. Uning kimyosi kech aktinidlar uchun xos bo'lib, +3 oksidlanish darajasi ustunlik qiladi, ammo mavjud +2 oksidlanish darajasi.",
+      "source": "https://en.wikipedia.org/wiki/Fermium",
+      "category": "Aktinid",
+      "atomic_weight": "[257] (mass number)",
+      "colors": [
+        4279161591,
+        4289920762
+      ]
+    },
+    null,
+    {
+      "number": 7,
+      "name": "Azot",
+      "symbol": "N",
+      "extract": "Azot - N belgisi va atom raqami 7 bo'lgan kimyoviy element. U birinchi marta 1772 yilda shotlandiyalik shifokor Daniel Ruterford tomonidan kashf etilgan va ajratib olingan. Garchi Karl Vilgelm Scheele va Genri Kavendish bir vaqtning o'zida mustaqil ravishda buni amalga oshirgan bo'lsalar ham, Ruterford odatda hurmatga sazovordir. chunki uning asari birinchi marta nashr etilgan. Nitrogen nomi fransuz kimyogari Jan-Antuan-Klod Chaptal tomonidan 1790 yilda azotning nitrat kislota va nitratlarda mavjudligi aniqlanganda taklif qilingan. Antuan Lavuazye uning o'rniga yunoncha ἀdeōtícos \"hayot yo'q\" dan azot nomini taklif qildi, chunki u bo'g'uvchi gazdir; bu nom frantsuz, rus, rumin va turk kabi koʻplab tillarda qoʻllaniladi va gidrazin, azidlar va azo birikmalar kabi baʼzi azot birikmalarining inglizcha nomlarida uchraydi.",
+      "source": "https://en.wikipedia.org/wiki/Nitrogen",
+      "category": "Reaktiv nometall",
+      "atomic_weight": "14.007 u(±)",
+      "colors": [
+        4283657726,
+        4287535603
+      ]
+    },
+    {
+      "number": 15,
+      "name": "Fosfor",
+      "symbol": "P",
+      "extract": "Fosfor - bu P belgisi va atom raqami 15 bo'lgan kimyoviy element. Elemental fosfor ikki asosiy shaklda, oq fosfor va qizil fosforda mavjud, ammo u yuqori reaktiv bo'lgani uchun fosfor hech qachon Yerda erkin element sifatida topilmaydi. Uning er qobig'ida kontsentratsiyasi har bir kilogramm uchun bir grammni tashkil qiladi (misni taxminan 0,06 gramm bilan solishtiring). Bir nechta istisnolardan tashqari, fosfor o'z ichiga olgan minerallar noorganik fosfat jinslari sifatida maksimal oksidlanish holatidadir.\nElemental fosfor birinchi marta 1669 yilda (oq fosfor sifatida) ajratilgan va kislorod ta'sirida zaif porlashi paydo bo'lgan - shuning uchun bu nom yunon mifologiyasidan olingan bo'lib, \"yorug'lik tashuvchi\" (lotincha Lucifer) \"Yulduz\" degan ma'noni anglatadi. , Venera sayyorasi.",
+      "source": "https://en.wikipedia.org/wiki/Phosphorus",
+      "category": "Reaktiv nometall",
+      "atomic_weight": "30.973761998(5) u(±)",
+      "colors": [
+        4283657726,
+        4287535603
+      ]
+    },
+    {
+      "number": 33,
+      "name": "Arsenik",
+      "symbol": "As",
+      "extract": "Mishyak - As belgisi va atom raqami 33 bo'lgan kimyoviy element. Mishyak ko'plab minerallarda, odatda oltingugurt va metallar bilan birgalikda, balki sof elementar kristal sifatida ham uchraydi. Arsenik metalloiddir. Turli xil allotroplarga ega, ammo faqat metall ko'rinishga ega bo'lgan kulrang shakl sanoat uchun muhimdir.\nMishyakning asosiy qo'llanilishi qo'rg'oshin qotishmalarida (masalan, avtomobil akkumulyatorlari va o'q-dorilarda).",
+      "source": "https://en.wikipedia.org/wiki/Arsenic",
+      "category": "Metalloid",
+      "atomic_weight": "74.921595(6) u(±)",
+      "colors": [
+        4278219519,
+        4278241023
+      ]
+    },
+    {
+      "number": 51,
+      "name": "Surma",
+      "symbol": "Sb",
+      "extract": "Surma - Sb (lotincha: stibium) belgisi va atom raqami 51 boʻlgan kimyoviy element. Yaltiroq kulrang metalloid, tabiatda asosan sulfidli stibnit minerali (Sb2S3) shaklida uchraydi. Surma birikmalari qadim zamonlardan beri ma'lum bo'lib, dori va kosmetika sifatida foydalanish uchun kukunga aylantirilgan, ko'pincha arabcha kohl nomi bilan tanilgan. Metall surma ham ma'lum bo'lgan, ammo kashf etilgandan so'ng u qo'rg'oshin ekanligi aniqlangan. G'arbda metallning eng qadimgi tavsifi 1540 yilda Vannoccio Biringuccio tomonidan yozilgan.",
+      "source": "https://en.wikipedia.org/wiki/Antimony",
+      "category": "Metalloid",
+      "atomic_weight": "121.760(1) u(±)",
+      "colors": [
+        4278219519,
+        4278241023
+      ]
+    },
+    {
+      "number": 83,
+      "name": "Vismut",
+      "symbol": "Bi",
+      "extract": "Vismut - Bi belgisi va atom raqami 83 bo'lgan kimyoviy element. Bu besh valentli o'tishdan keyingi metall va kimyoviy xossalari uning engilroq gomologlari mishyak va surmaga o'xshash pniktojenlardan biri. Elementar vismut tabiiy ravishda paydo bo'lishi mumkin, ammo uning sulfid va oksidi muhim tijorat rudalarini hosil qiladi. Erkin element qo'rg'oshin kabi 86% zichlikka ega. Bu mo'rt metall bo'lib, yangi ishlab chiqarilganda kumushrang oq rangga ega, ammo sirt oksidlanishi unga pushti rang berishi mumkin.",
+      "source": "https://en.wikipedia.org/wiki/Bismuth",
+      "category": "O'tishdan keyingi metall",
+      "atomic_weight": "208.98040(1) u(±)",
+      "colors": [
+        4279343502,
+        4281921405
+      ]
+    },
+    {
+      "number": 115,
+      "name": "Moskva",
+      "symbol": "Mc",
+      "extract": "Moscovium - bu Mc belgisi va atom raqami 115 bo'lgan sintetik kimyoviy element. U birinchi marta 2003 yilda Rossiyaning Dubna shahridagi Birlashgan Yadroviy Tadqiqotlar Institutida (JINR) rus va amerikalik olimlarning qo'shma guruhi tomonidan sintez qilingan. 2015 yil dekabr oyida u IUPAC va IUPAP xalqaro ilmiy organlarining Qo'shma ishchi guruhi tomonidan to'rtta yangi elementlardan biri sifatida tan olingan. 2016-yil 28-noyabrda u rasmiy ravishda JINR joylashgan Moskva viloyati nomi bilan ataldi.Moscovium juda radioaktiv element: uning eng barqaror maʼlum boʻlgan izotopi moskovium-290 ning yarim yemirilish davri atigi 0,65 soniyani tashkil qiladi. Davriy jadvalda u p-blokli transaktinid elementidir. U 7-davrning a'zosi bo'lib, eng og'ir pniktojen sifatida 15-guruhga kiritilgan, ammo u o'zini pniktojen vismutning og'irroq gomologi sifatida tutishi tasdiqlanmagan.",
+      "source": "https://en.wikipedia.org/wiki/Moscovium",
+      "category": "Noma'lum kimyoviy xususiyatlar",
+      "atomic_weight": "[290] (mass number)",
+      "colors": [
+        4285890458,
+        4292337128
+      ]
+    },
+    null,
+    {
+      "number": 69,
+      "name": "Tulyum",
+      "symbol": "Tm",
+      "extract": "Tuliy - Tm belgisi va atom raqami 69 bo'lgan kimyoviy element. Bu lantanidlar seriyasining o'n uchinchi va uchinchi oxirgi elementidir. Boshqa lantanidlar singari, eng keng tarqalgan oksidlanish darajasi +3, uning oksidi, galoidlari va boshqa birikmalarida ko'rinadi; chunki bu ketma-ketlikda juda kech sodir bo'ladi, ammo +2 oksidlanish darajasi ham deyarli to'liq 4f qobiq bilan barqarorlashadi. Suvli eritmada, boshqa kech lantanidlarning birikmalari kabi, eriydigan tuliy birikmalari to'qqizta suv molekulasi bilan koordinatsion komplekslarni hosil qiladi.\n1879 yilda shved kimyogari Per Teodor Kliv nodir yer oksidi erbiyasidan ilgari noma'lum bo'lgan yana ikkita komponentni ajratib oldi, ularni holmiya va tuliya deb ataydi; bular mos ravishda golmiy va tuliy oksidlari edi.",
+      "source": "https://en.wikipedia.org/wiki/Thulium",
+      "category": "Lantanid",
+      "atomic_weight": "168.934218(6) u(±)",
+      "colors": [
+        4287349578,
+        4292141399
+      ]
+    },
+    {
+      "number": 101,
+      "name": "Mendeleviya",
+      "symbol": "Md",
+      "extract": "Mendelevium kimyoviy belgisi Md (ilgari Mv) va atom raqami 101 bo'lgan sintetik elementdir. Aktinidlar seriyasidagi metall radioaktiv transuran element bo'lib, u hozirgi vaqtda engilroq elementlarning neytron bombardimoni orqali makroskopik miqdorda ishlab chiqarilmaydigan birinchi elementdir. Bu uchinchidan oxirgi aktinid va to'qqizinchi transuranik elementdir. U faqat engilroq elementlarni zaryadlangan zarrachalar bilan bombardimon qilish orqali zarracha tezlatgichlarida ishlab chiqarilishi mumkin. Jami o'n oltita mendeleviy izotoplari ma'lum, eng barqarori 258Md bo'lib, yarim yemirilish davri 51 kun; shunga qaramay, qisqa muddatli 256Md (yarimparchalanish davri 1,17 soat) kimyoda eng ko'p qo'llaniladi, chunki u katta miqyosda ishlab chiqarilishi mumkin.",
+      "source": "https://en.wikipedia.org/wiki/Mendelevium",
+      "category": "Aktinid",
+      "atomic_weight": "[258] (mass number)",
+      "colors": [
+        4279161591,
+        4289920762
+      ]
+    },
+    null,
+    {
+      "number": 8,
+      "name": "Kislorod",
+      "symbol": "O",
+      "extract": "Kislorod O belgisi va atom raqami 8 bo'lgan kimyoviy elementdir. U davriy jadvaldagi xalkogen guruhining a'zosi, yuqori reaktiv nometal va oksidlovchi modda bo'lib, ko'pchilik elementlar va boshqa birikmalar bilan osongina oksidlar hosil qiladi. Massasi bo'yicha kislorod koinotda vodorod va geliydan keyin uchinchi o'rinda turadi. Standart harorat va bosimda elementning ikkita atomi O2 formulali rangsiz va hidsiz diatomik gaz bo'lgan dioksidni hosil qilish uchun bog'lanadi. Ikki atomli kislorod gazi Yer atmosferasining 20,8% ni tashkil qiladi.",
+      "source": "https://en.wikipedia.org/wiki/Oxygen",
+      "category": "Reaktiv nometall",
+      "atomic_weight": "15.999 u(±)",
+      "colors": [
+        4283657726,
+        4287535603
+      ]
+    },
+    {
+      "number": 16,
+      "name": "Oltingugurt",
+      "symbol": "S",
+      "extract": "Oltingugurt yoki oltingugurt - S belgisi va atom raqami 16 bo'lgan kimyoviy element. U ko'p, ko'p valentli va metall bo'lmagan. Oddiy sharoitlarda oltingugurt atomlari kimyoviy formulasi S8 bo'lgan tsiklik oktatomik molekulalarni hosil qiladi. Elemental oltingugurt xona haroratida yorqin sariq, kristalli qattiq moddadir.\nOltingugurt koinotda massasi boʻyicha oʻninchi, Yerda esa beshinchi oʻrinda turadi.",
+      "source": "https://en.wikipedia.org/wiki/Sulfur",
+      "category": "Reaktiv nometall",
+      "atomic_weight": "32.06 u(±)",
+      "colors": [
+        4283657726,
+        4287535603
+      ]
+    },
+    {
+      "number": 34,
+      "name": "Selen",
+      "symbol": "Se",
+      "extract": "Selen - Se belgisi va atom raqami 34 bo'lgan kimyoviy element. Bu davriy jadvaldagi yuqoridagi va pastdagi elementlar, oltingugurt va tellur o'rtasida oraliq bo'lgan, shuningdek, mishyak bilan o'xshash xususiyatlarga ega bo'lgan metall bo'lmagan (kamdan-kam hollarda metalloid hisoblanadi). . U kamdan-kam hollarda elementar holatda yoki er qobig'ida sof ruda birikmalari sifatida uchraydi. Selen (qadimgi yunoncha selḗnē (selḗnē) \"Oy\" dan) 1817 yilda yangi elementning ilgari kashf etilgan tellurga (Yer uchun nomlangan) o'xshashligini ta'kidlagan Yons Yakob Berzelius tomonidan kashf etilgan.\nSelen metall sulfidli rudalarda uchraydi, u erda oltingugurtni qisman almashtiradi.",
+      "source": "https://en.wikipedia.org/wiki/Selenium",
+      "category": "Reaktiv nometall",
+      "atomic_weight": "78.971(8) u(±)",
+      "colors": [
+        4283657726,
+        4287535603
+      ]
+    },
+    {
+      "number": 52,
+      "name": "Tellur",
+      "symbol": "Te",
+      "extract": "Tellur - Te belgisi va atom raqami 52 bo'lgan kimyoviy element. Bu mo'rt, engil zaharli, noyob, kumush-oq metalloid. Tellur kimyoviy jihatdan selen va oltingugurt bilan bog'liq bo'lib, ularning uchtasi ham xalkogendir. U vaqti-vaqti bilan tabiiy shaklda elementar kristallar sifatida topiladi. Tellur butun koinotda Yerga qaraganda ancha keng tarqalgan.",
+      "source": "https://en.wikipedia.org/wiki/Tellurium",
+      "category": "Metalloid",
+      "atomic_weight": "127.60(3) u(±)",
+      "colors": [
+        4278219519,
+        4278241023
+      ]
+    },
+    {
+      "number": 84,
+      "name": "Poloniy",
+      "symbol": "Po",
+      "extract": "Poloniy - Po belgisi va atom raqami 84 bo'lgan kimyoviy element. Turg'un izotoplarga ega bo'lmagan noyob va yuqori radioaktiv metall, poloniy kimyoviy jihatdan selen va tellurga o'xshaydi, ammo uning metall xususiyati davriy jadvaldagi gorizontal qo'shnilariga o'xshaydi: talliy, qo'rg'oshin va vismut. Uning barcha izotoplarining yarimparchalanish davri qisqa bo'lganligi sababli, uning tabiiy paydo bo'lishi uran rudalarida tez o'tuvchi poloniy-210 (yarimparchalanish davri 138 kun) ning kichik izlari bilan cheklangan, chunki u tabiiy uranning oxirgi qizi hisoblanadi. 238. Bir oz ko'proq umr ko'radigan izotoplar mavjud bo'lsa-da, ularni ishlab chiqarish ancha qiyin. Bugungi kunda poloniy odatda vismutning neytron nurlanishi orqali milligramm miqdorida ishlab chiqariladi.",
+      "source": "https://en.wikipedia.org/wiki/Polonium",
+      "category": "O'tishdan keyingi metall",
+      "atomic_weight": "[209] (mass number)",
+      "colors": [
+        4279343502,
+        4281921405
+      ]
+    },
+    {
+      "number": 116,
+      "name": "Livermorium",
+      "symbol": "Lv",
+      "extract": "Livermorium sintetik kimyoviy element boʻlib, Lv belgisiga ega boʻlib, atom raqami 116 ga teng. U oʻta radioaktiv element boʻlib, faqat laboratoriyada yaratilgan va tabiatda kuzatilmagan. Element 2000-2006-yillarda oʻtkazilgan tajribalar chogʻida Rossiyaning Dubna shahridagi Yadroviy tadqiqotlar qoʻshma instituti (JINR) bilan hamkorlikda boʻlgan Qoʻshma Shtatlardagi Lourens Livermor milliy laboratoriyasi nomi bilan atalgan. Kaliforniyaning Livermor shahrida joylashgan bo'lib, u o'z navbatida chorvador va er egasi Robert Livermor nomi bilan atalgan. Bu nom IUPAC tomonidan 2012-yil 30-mayda qabul qilingan.",
+      "source": "https://en.wikipedia.org/wiki/Livermorium",
+      "category": "Noma'lum kimyoviy xususiyatlar",
+      "atomic_weight": "[293] (mass number)",
+      "colors": [
+        4285890458,
+        4292337128
+      ]
+    },
+    null,
+    {
+      "number": 70,
+      "name": "Itterbium",
+      "symbol": "Yb",
+      "extract": "İtterbiy - Yb belgisi va atom raqami 70 bo'lgan kimyoviy element. Bu lantanidlar qatoridagi o'n to'rtinchi va oxirgi element bo'lib, uning +2 oksidlanish darajasining nisbiy barqarorligining asosi hisoblanadi. Biroq, boshqa lantanidlar singari, uning eng keng tarqalgan oksidlanish darajasi oksidi, galoidlari va boshqa birikmalarida bo'lgani kabi +3 dir. Suvli eritmada, boshqa kech lantanidlarning birikmalari kabi, eruvchan iterbiy birikmalari to'qqizta suv molekulasi bilan komplekslar hosil qiladi. Yopiq qobiqli elektron konfiguratsiyasi tufayli uning zichligi, erish va qaynash nuqtalari boshqa lantanidlarning ko'pchiligidan sezilarli darajada farq qiladi.",
+      "source": "https://en.wikipedia.org/wiki/Ytterbium",
+      "category": "Lantanid",
+      "atomic_weight": "173.045(10) u(±)",
+      "colors": [
+        4287349578,
+        4292141399
+      ]
+    },
+    {
+      "number": 102,
+      "name": "Nobeliy",
+      "symbol": "No",
+      "extract": "Nobeliy sintetik kimyoviy element bo'lib, belgisi No va atom raqami 102. U dinamit ixtirochisi va fan xayrixohi Alfred Nobel sharafiga nomlangan. Radioaktiv metall, u o'ninchi transuranik element bo'lib, aktinidlar seriyasining so'nggi a'zosi hisoblanadi. Atom raqami 100 dan yuqori bo'lgan barcha elementlar singari, nobeliy faqat engilroq elementlarni zaryadlangan zarrachalar bilan bombardimon qilish orqali zarracha tezlatgichlarida hosil bo'lishi mumkin. Jami o'n ikkita nobeliy izotoplari mavjudligi ma'lum; eng barqarori 259No, yarim yemirilish davri 58 minut, ammo qisqaroq 255No (yarim yemirilish davri 3,1 daqiqa) kimyoda eng ko‘p qo‘llaniladi, chunki u kattaroq miqyosda ishlab chiqarilishi mumkin.",
+      "source": "https://en.wikipedia.org/wiki/Nobelium",
+      "category": "Aktinid",
+      "atomic_weight": "[259] (mass number)",
+      "colors": [
+        4279161591,
+        4289920762
+      ]
+    },
+    null,
+    {
+      "number": 9,
+      "name": "Ftor",
+      "symbol": "F",
+      "extract": "Ftor - F belgisi va atom raqami 9 bo'lgan kimyoviy element. U eng engil halogen bo'lib, standart sharoitlarda juda zaharli och sariq diatomik gaz sifatida mavjud. Eng elektronegativ element sifatida u juda reaktivdir, chunki u geliy va neondan tashqari deyarli barcha boshqa elementlar bilan reaksiyaga kirishadi.\nElementlar orasida ftor universal ko'pligi bo'yicha 24-o'rinni va er yuzidagi ko'pligi bo'yicha 13-o'rinni egallaydi. Ftorit, ftorning asosiy mineral manbai bo'lib, elementga o'z nomini berdi, birinchi marta 1529 yilda tasvirlangan; metall rudalariga eritish uchun erish nuqtalarini pasaytirish uchun qo'shilganligi sababli, lotincha \"oqim\" ma'nosini bildiruvchi fluo fe'li mineralga o'z nomini berdi.",
+      "source": "https://en.wikipedia.org/wiki/Fluorine",
+      "category": "Reaktiv nometall",
+      "atomic_weight": "18.998403163(6) u(±)",
+      "colors": [
+        4283657726,
+        4287535603
+      ]
+    },
+    {
+      "number": 17,
+      "name": "Xlor",
+      "symbol": "Cl",
+      "extract": "Xlor - bu Cl belgisi va atom raqami 17 bo'lgan kimyoviy element. Galogenlar ichida ikkinchi eng engil bo'lib, davriy sistemada ftor va brom orasida joylashgan va uning xossalari asosan ular orasida oraliqdir. Xlor xona haroratida sariq-yashil gazdir. Bu juda reaktiv element va kuchli oksidlovchi moddadir: elementlar orasida u eng yuqori elektronga yaqinlik va uchinchi eng yuqori elektromanfiylikka ega, faqat kislorod va ftordan keyin.\nXlorning eng keng tarqalgan birikmasi, natriy xlorid (umumiy tuz) qadim zamonlardan beri ma'lum.",
+      "source": "https://en.wikipedia.org/wiki/Chlorine",
+      "category": "Reaktiv nometall",
+      "atomic_weight": "35.45 u(±)",
+      "colors": [
+        4283657726,
+        4287535603
+      ]
+    },
+    {
+      "number": 35,
+      "name": "Brom",
+      "symbol": "Br",
+      "extract": "Brom Br belgisiga ega va atom raqami 35 bo'lgan kimyoviy elementdir. U uchinchi eng engil halogen bo'lib, xona haroratida bug'lanib ketadigan qizil-jigarrang suyuqlik bo'lib, xuddi shunday rangli gaz hosil qiladi. Shunday qilib, uning xususiyatlari xlor va yod o'rtasida oraliqdir. Ikki kimyogar Karl Yakob Lövig (1825 yilda) va Antuan Jerom Balard (1826 yilda) tomonidan mustaqil ravishda ajratilgan uning nomi qadimgi yunoncha bῶmos (\"xush hid\") dan olingan bo'lib, uning o'tkir va yoqimsiz hidiga ishora qiladi.\nBrom elementi juda reaktiv va shuning uchun tabiatda erkin emas, balki osh tuziga o'xshash rangsiz eriydigan kristalli mineral galogenid tuzlarida uchraydi.",
+      "source": "https://en.wikipedia.org/wiki/Bromine",
+      "category": "Reaktiv nometall",
+      "atomic_weight": "79.904 u(±)",
+      "colors": [
+        4283657726,
+        4287535603
+      ]
+    },
+    {
+      "number": 53,
+      "name": "Yod",
+      "symbol": "I",
+      "extract": "Yod I belgisi va atom raqami 53 boʻlgan kimyoviy elementdir. Barqaror galogenlar ichida eng ogʻir boʻlib, standart sharoitlarda 114 daraja Selsiyda chuqur binafsha rangli suyuqlik hosil qilish uchun eriydigan yorqin, binafsha-qora metall boʻlmagan qattiq modda sifatida mavjud. 184 daraja Selsiyda binafsha gazga qaynaydi. Elementni 1811-yilda frantsuz kimyogari Bernard Kurtua kashf etgan. Ikki yil o'tgach, bu xususiyatdan Jozef Lui Gey-Lyussak tomonidan yunoncha ἰώdēs \"binafsha rang\" sharafiga nomlangan.\nYod ko'plab oksidlanish darajalarida, jumladan yodid (I-), yodat (IO-3) va turli periodat anionlarida uchraydi.",
+      "source": "https://en.wikipedia.org/wiki/Iodine",
+      "category": "Reaktiv nometall",
+      "atomic_weight": "126.90447(3) u(±)",
+      "colors": [
+        4283657726,
+        4287535603
+      ]
+    },
+    {
+      "number": 85,
+      "name": "Astatin",
+      "symbol": "At",
+      "extract": "Astatin - At belgisi va atom raqami 85 bo'lgan radioaktiv kimyoviy element. U Yer qobig'idagi eng kam uchraydigan tabiiy element bo'lib, faqat turli og'irroq elementlarning parchalanish mahsuloti sifatida paydo bo'ladi. Astatinning barcha izotoplari qisqa muddatli; eng barqarori - astatin-210, yarim yemirilish davri 8,1 soat. Sof elementning namunasi hech qachon yig'ilmagan, chunki har qanday makroskopik namuna o'z radioaktivligining issiqligi bilan darhol bug'lanadi.\nAstatinning asosiy xususiyatlari aniq ma'lum emas.",
+      "source": "https://en.wikipedia.org/wiki/Astatine",
+      "category": "Metalloid",
+      "atomic_weight": "[210] (mass number)",
+      "colors": [
+        4278219519,
+        4278241023
+      ]
+    },
+    {
+      "number": 117,
+      "name": "Tennessin",
+      "symbol": "Ts",
+      "extract": "Tennessin - Ts belgisi va atom raqami 117 bo'lgan sintetik kimyoviy element. Bu ikkinchi eng og'ir element va davriy jadvalning 7-davrining oxirgi elementidir.\nTennessin kashfiyoti 2010-yil aprel oyida Rossiya-Amerika hamkorligida Rossiyaning Dubna shahrida rasman eʼlon qilindi, bu esa uni 2019-yil holatiga koʻra eng soʻnggi topilgan elementga aylantirdi. Uning qizi izotoplaridan biri toʻgʻridan-toʻgʻri 2011-yilda yaratilgan, bu natijalarni qisman tasdiqlaydi. tajriba. Tajribaning o'zi 2012 yilda xuddi shu hamkorlikda va 2014 yil may oyida Germaniya-Amerika qo'shma jamoasi tomonidan muvaffaqiyatli takrorlangan.",
+      "source": "https://en.wikipedia.org/wiki/Tennessine",
+      "category": "Noma'lum kimyoviy xususiyatlar",
+      "atomic_weight": "[294] (mass number)",
+      "colors": [
+        4285890458,
+        4292337128
+      ]
+    },
+    null,
+    {
+      "number": 71,
+      "name": "Lutetiy",
+      "symbol": "Lu",
+      "extract": "Lutetiy - Lu belgisi va atom raqami 71 bo'lgan kimyoviy element. U quruq havoda korroziyaga qarshilik ko'rsatadigan kumush rangli oq metalldir, lekin nam havoda emas. Lutetiy lantanidlar turkumidagi oxirgi element bo'lib, u an'anaviy ravishda noyob erlar qatoriga kiradi. Lutetiy ba'zan 6-davr o'tish metallarining birinchi elementi hisoblanadi, garchi lantan ko'pincha shunday deb hisoblanadi.\nLutetiy 1907 yilda fransuz olimi Jorj Urbain, avstriyalik mineralog baron Karl Auer fon Uelsbax va amerikalik kimyogar Charlz Jeyms tomonidan mustaqil ravishda kashf etilgan.",
+      "source": "https://en.wikipedia.org/wiki/Lutetium",
+      "category": "Lantanid",
+      "atomic_weight": "174.9668(1) u(±)",
+      "colors": [
+        4287349578,
+        4292141399
+      ]
+    },
+    {
+      "number": 103,
+      "name": "Lorensiy",
+      "symbol": "Lr",
+      "extract": "Lawrencium - Lr (avvalgi Lw) belgisi va atom raqami 103 bo'lgan sintetik kimyoviy element. U ko'plab sun'iy radioaktiv elementlarni kashf qilishda foydalanilgan siklotron ixtirochisi Ernest Lourens sharafiga nomlangan. Radioaktiv metall, lavrensiy o'n birinchi transuranik element bo'lib, aktinidlar seriyasining yakuniy a'zosidir. Atom raqami 100 dan yuqori bo'lgan barcha elementlar singari, lavrensiy ham faqat engilroq elementlarni zaryadlangan zarrachalar bilan bombardimon qilish orqali zarracha tezlatgichlarida hosil bo'lishi mumkin. Lavrensiyning 12 izotopi hozirgi vaqtda ma'lum; eng barqarori 266Lr boʻlib, yarim yemirilish davri 11 soat, ammo qisqaroq 260Lr (yarimparchalanish davri 2,7 daqiqa) kimyoda eng koʻp qoʻllaniladi, chunki u katta miqyosda ishlab chiqarilishi mumkin.",
+      "source": "https://en.wikipedia.org/wiki/Lawrencium",
+      "category": "Aktinid",
+      "atomic_weight": "[266] (mass number)",
+      "colors": [
+        4279161591,
+        4289920762
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Geliy",
+      "symbol": "He",
+      "extract": "Geliy (yunoncha: ἥlios, translit. Helios, 'Quyosh') belgisi He va atom raqami 2 bo'lgan kimyoviy element. Bu rangsiz, hidsiz, mazasiz, toksik bo'lmagan, inert, monotomik gaz bo'lib, dunyoda birinchi davriy jadvaldagi asil gazlar guruhi. Uning qaynash nuqtasi barcha elementlar orasida eng past hisoblanadi.",
+      "source": "https://en.wikipedia.org/wiki/Helium",
+      "category": "Noble gaz",
+      "atomic_weight": "4.002602(2) u(±)",
+      "colors": [
+        4288124656,
+        4294690772
+      ]
+    },
+    {
+      "number": 10,
+      "name": "Neon",
+      "symbol": "Ne",
+      "extract": "Neon kimyoviy element bo'lib, belgisi Ne va atom raqami 10. Bu qimmatbaho gaz. Neon standart sharoitlarda rangsiz, hidsiz, inert monoatomik gaz bo'lib, havo zichligi taxminan uchdan ikki qismiga teng. U 1898 yilda azot, kislorod, argon va karbonat angidrid olib tashlanganidan keyin quruq havoda qolgan uchta qoldiq noyob inert elementlardan biri sifatida (kripton va ksenon bilan birga) kashf etilgan. Neon kashf etilgan ushbu uchta noyob gazning ikkinchisi edi va darhol uning yorqin qizil emissiya spektridan yangi element sifatida tan olindi.",
+      "source": "https://en.wikipedia.org/wiki/Neon",
+      "category": "Noble gaz",
+      "atomic_weight": "20.1797(6) u(±)",
+      "colors": [
+        4288124656,
+        4294690772
+      ]
+    },
+    {
+      "number": 18,
+      "name": "Argon",
+      "symbol": "Ar",
+      "extract": "Argon - kimyoviy element bo'lib, Ar belgisi va atom raqami 18. U davriy jadvalning 18-guruhiga kiradi va asil gazdir. Argon 0,934% (9340 ppmv) bilan Yer atmosferasidagi uchinchi eng ko'p gazdir. U suv bug'idan ikki baravar ko'p (bu o'rtacha 4000 ppmv ni tashkil qiladi, lekin juda katta farq qiladi), karbonat angidriddan 23 marta (400 ppmv) va neondan (18 ppmv) 500 marta ko'p. Argon er qobig'idagi eng ko'p tarqalgan olijanob gaz bo'lib, qobiqning 0,00015% ni tashkil qiladi.",
+      "source": "https://en.wikipedia.org/wiki/Argon",
+      "category": "Noble gaz",
+      "atomic_weight": "39.948 u(±)",
+      "colors": [
+        4288124656,
+        4294690772
+      ]
+    },
+    {
+      "number": 36,
+      "name": "Kripton",
+      "symbol": "Kr",
+      "extract": "Kripton (qadimgi yunon tilidan: kryptos, transl. kryptos \"yashirin\") - Kr belgisi va atom raqami 36 boʻlgan kimyoviy element. 18-guruh (asl gazlar) elementlariga kiradi. Rangsiz, hidsiz, ta'msiz olijanob gaz, kripton atmosferada iz miqdorida uchraydi va ko'pincha lyuminestsent lampalardagi boshqa nodir gazlar bilan birga ishlatiladi. Kamdan-kam istisnolardan tashqari, kripton kimyoviy jihatdan inertdir.",
+      "source": "https://en.wikipedia.org/wiki/Krypton",
+      "category": "Noble gaz",
+      "atomic_weight": "83.798(2) u(±)",
+      "colors": [
+        4288124656,
+        4294690772
+      ]
+    },
+    {
+      "number": 54,
+      "name": "Xenon",
+      "symbol": "Xe",
+      "extract": "Ksenon - Xe belgisi va atom raqami 54 bo'lgan kimyoviy element. Bu rangsiz, zich, hidsiz asil gaz bo'lib, Yer atmosferasida iz miqdorda topiladi. Odatda reaktiv bo'lmasa-da, ksenon bir nechta kimyoviy reaktsiyalarga duch kelishi mumkin, masalan, sintez qilinadigan birinchi nobel gaz birikmasi bo'lgan ksenon geksafluoroplatinat hosil bo'lishi. Birinchi eksimer lazer dizayni lazerli vosita sifatida ksenon dimer molekulasidan (Xe2) foydalangan va eng qadimgi lazer dizaynlarida nasoslar sifatida ksenon chirog'li lampalar ishlatilgan. Ksenon gipotetik zaif o'zaro ta'sir qiluvchi massiv zarralarni qidirish uchun va kosmik kemalarda ion tashuvchilar uchun qo'zg'atuvchi sifatida ishlatiladi. Tabiiyki, ksenon sakkizta barqaror izotopdan iborat.",
+      "source": "https://en.wikipedia.org/wiki/Xenon",
+      "category": "Noble gaz",
+      "atomic_weight": "131.293(6) u(±)",
+      "colors": [
+        4288124656,
+        4294690772
+      ]
+    },
+    {
+      "number": 86,
+      "name": "Radon",
+      "symbol": "Rn",
+      "extract": "Radon - Rn belgisi va atom raqami 86 bo'lgan kimyoviy element. Bu radioaktiv, rangsiz, hidsiz, mazasiz asil gazdir. U tabiiy radioaktiv parchalanishning oddiy zanjirlarida oraliq bosqich sifatida juda oz miqdorda yuzaga keladi, bu orqali toriy va uran asta-sekin qo'rg'oshin va boshqa qisqa muddatli radioaktiv elementlarga aylanadi; radonning o'zi radiyning darhol parchalanish mahsulotidir. Uning eng barqaror izotopi 222Rnning yarim yemirilish davri bor-yo‘g‘i 3,8 kunni tashkil etadi, bu radonni eng nodir elementlardan biriga aylantiradi, chunki u juda tez parchalanadi. Biroq, toriy va uran Yerdagi eng keng tarqalgan ikkita radioaktiv elementlardan bo'lganligi va ularning yarimparchalanish davri juda uzoq bo'lgan uchta izotopga ega bo'lganligi sababli, bir necha milliard yillar davomida radon Yerda uzoq kelajakda mavjud bo'ladi. uning qisqa yarimparchalanish davri, chunki u doimiy ravishda ishlab chiqariladi.",
+      "source": "https://en.wikipedia.org/wiki/Radon",
+      "category": "Noble gaz",
+      "atomic_weight": "[222] (mass number)",
+      "colors": [
+        4288124656,
+        4294690772
+      ]
+    },
+    {
+      "number": 118,
+      "name": "Oganesson",
+      "symbol": "Og",
+      "extract": "Oganesson - Og belgisi va atom raqami 118 bo'lgan sintetik kimyoviy element. U birinchi marta 2002 yilda Rossiyaning Moskva yaqinidagi Dubna shahridagi Birlashgan Yadroviy Tadqiqotlar Institutida (JINR) rus va amerikalik olimlarning qo'shma jamoasi tomonidan sintez qilingan. 2015 yil dekabr oyida u IUPAC va IUPAP xalqaro ilmiy organlarining Qo'shma ishchi guruhi tomonidan to'rtta yangi elementlardan biri sifatida tan olingan. U 2016-yil 28-noyabrda rasman nomlangan. Bu nom davriy tizimdagi eng og‘ir elementlarni ochishda yetakchi rol o‘ynagan olim, bu holatda yadro fizigi Yuriy Oganessianni sharaflash an’analariga mos keladi. Bu nom berish vaqtida tirik bo'lgan odam nomi bilan atalgan ikkita elementdan biri, ikkinchisi seaborgium; u ayni paytda uning nomi tirik bo'lgan yagona elementdir. Oganesson barcha ma'lum elementlarning eng yuqori atom raqami va eng yuqori atom massasiga ega.",
+      "source": "https://en.wikipedia.org/wiki/Oganesson",
+      "category": "Noma'lum kimyoviy xususiyatlar",
+      "atomic_weight": "[294] (mass number)",
+      "colors": [
+        4285890458,
+        4292337128
+      ]
+    },
+    null,
+    null,
+    null
+  ]
+}
